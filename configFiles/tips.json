@@ -1,0 +1,2459 @@
+{
+    "_id": "53a40626e4b0a3bffabc1866",
+    "gameplayActions": {
+        "deactivateBoardTouchExcept5": {
+            "action": "touchInTile",
+            "params": {
+                "endFunc": "nextTip",
+                "boardID": 5
+            }
+        },
+        "deactivateBoardTouchExcept10": {
+            "action": "touchInTile",
+            "params": {
+                "endFunc": "nextTip",
+                "boardID": 10
+            }
+        },
+        "deactivateBoardTouchExcept13": {
+            "action": "touchInTile",
+            "params": {
+                "endFunc": "nextTip",
+                "boardID": 13
+            }
+        },
+        "deactivateBoardTouchExcept23": {
+            "action": "touchInTile",
+            "params": {
+                "endFunc": "nextTip",
+                "endDelay": 5000,
+                "boardID": 23
+            }
+        },
+        "spawnMoleKillEnabledAt5": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "mole",
+                        "boardID": 5,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "spawnMoleKillEnabledAt12": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "mole",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "spawnMoleKillDisabledAt12": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "mole",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnMoleKillDisabledAt4": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "mole",
+                        "boardID": 4,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false,
+                "weaponKiller": "lifeBox"
+            }
+        },
+        "spawnPigKillDisabledAt14": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "pig",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnMoleKillWithLifeBoxAt12": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "mole",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "lifeBox"
+            }
+        },
+        "spawnRabbitAt5": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rabbit",
+                        "boardID": 5,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnPigRabbits": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rabbit",
+                        "boardID": 5,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 6,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 7,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "pig",
+                        "boardID": 10,
+                        "timeToAttack": 0,
+                        "killerWeapon": "none"
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 8,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 9,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "pig",
+                        "boardID": 11,
+                        "timeToAttack": 0,
+                        "killerWeapon": "none"
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 15,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 16,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "pigExplosion"
+            }
+        },
+        "spawnPigMoles": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "mole",
+                        "boardID": 6,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "mole",
+                        "boardID": 9,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "mole",
+                        "boardID": 11,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "pig",
+                        "boardID": 10,
+                        "timeToAttack": 0,
+                        "killerWeapon": "rake"
+                    },
+                    {
+                        "type": "mole",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "none"
+            }
+        },
+        "spawnTortoiseAt13": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "tortoise",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnHysteriaKillEnabledAt13": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "queen",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "spawnHysteriasAt8-13-14-18": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "queen",
+                        "boardID": 8,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "queen",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "queen",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "queen",
+                        "boardID": 19,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnRabbitDogKillWithDeathBoxAt14-17": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rabbit",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "dog",
+                        "boardID": 17,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "deathBox"
+            }
+        },
+        "spawnFishParrotKillWithDeathBoxAt7-18": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "parrot",
+                        "boardID": 7,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "fish",
+                        "boardID": 18,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "deathBox"
+            }
+        },
+        "spawnChihuahuaAt13": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "chihuahua",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnCageAt13": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "cage",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnSomeTortoises": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "tortoise",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "tortoise",
+                        "boardID": 11,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "tortoise",
+                        "boardID": 8,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "tortoise",
+                        "boardID": 20,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "endFunc": "killZombieToSkipTip",
+                "killerWeapon": "stone"
+            }
+        },
+        "spawnCatAt18": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "cat",
+                        "boardID": 18,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnFishAt18": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "fish",
+                        "boardID": 18,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnSomeRabbits": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rabbit",
+                        "boardID": 7,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 8,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 9,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 17,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 18,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 19,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "stinkBomb",
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "spawnSomeRats": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rat",
+                        "boardID": 7,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 8,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 9,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 17,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 18,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 19,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnPossumsAt11-16-19": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "possum",
+                        "boardID": 11,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "possum",
+                        "boardID": 16,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "possum",
+                        "boardID": 19,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnRatAt13": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rat",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnRatsCagesAt8-9-12-17-19": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rat",
+                        "boardID": 8,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "cage",
+                        "boardID": 9,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "cage",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 17,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rat",
+                        "boardID": 19,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": false
+            }
+        },
+        "spawnSomeZombies": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rat",
+                        "boardID": 7,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "dog",
+                        "boardID": 10,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "pig",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "cage",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "cat",
+                        "boardID": 16,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "possum",
+                        "boardID": 20,
+                        "timeToAttack": 0
+                    }
+                ]
+            }
+        },
+        "spawnMooseAt13": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "moose",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    }
+                ]
+            }
+        },
+        "spawnSomeZombiesWithSkunk": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rat",
+                        "boardID": 1,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "dog",
+                        "boardID": 3,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "tortoise",
+                        "boardID": 5,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 6,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "cage",
+                        "boardID": 7,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "pig",
+                        "boardID": 9,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "mole",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "skunk",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "dog",
+                        "boardID": 15,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "pig",
+                        "boardID": 16,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 17,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "cage",
+                        "boardID": 19,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "tortoise",
+                        "boardID": 21,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "possum",
+                        "boardID": 25,
+                        "timeToAttack": 0
+                    }
+                ],
+                "killEnabled": true,
+                "killerWeapon": "skunkExplosion"
+            }
+        },
+        "spawnBearAt12": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "bear",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    }
+                ]
+            }
+        },
+        "spawnMooseAt14": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "moose",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    }
+                ]
+            }
+        },
+        "attackAt5": {
+            "action": "zombieAttack",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 5,
+                        "timeToAttack": 400
+                    }
+                ],
+                "endFunc": "nextTip"
+            }
+        },
+        "attackAt10_11": {
+            "action": "zombieAttack",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 10,
+                        "timeToAttack": 750
+                    },
+                    {
+                        "boardID": 11,
+                        "endFunc": "nextTip",
+                        "endDelay": 1500,
+                        "timeToAttack": 850
+                    }
+                ]
+            }
+        },
+        "attackAt13": {
+            "action": "zombieAttack",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 13,
+                        "timeToAttack": 750
+                    }
+                ],
+                "endFunc": "nextTip"
+            }
+        },
+        "possumsEat": {
+            "action": "zombieAttack",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 11,
+                        "timeToAttack": 500
+                    },
+                    {
+                        "boardID": 16,
+                        "timeToAttack": 500
+                    },
+                    {
+                        "boardID": 19,
+                        "timeToAttack": 500
+                    }
+                ],
+                "endFunc": "nextTip"
+            }
+        },
+        "skunkExplosion": {
+            "action": "zombieAttack",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 13,
+                        "timeToAttack": 750
+                    }
+                ]
+            }
+        },
+        "enableKillAt12": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 12
+                    }
+                ],
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "enableKillAt13": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "endFunc": "killZombieToSkipTip",
+                        "boardID": 13
+                    }
+                ]
+            }
+        },
+        "enableKillAt18": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "endFunc": "killZombieToSkipTip",
+                        "boardID": 18
+                    }
+                ]
+            }
+        },
+        "enableKillWithRakeAt13": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 13
+                    }
+                ],
+                "killerWeapon": "rake"
+            }
+        },
+        "enableKillWithRakeAt10": {
+            "action": "zombieEnableKill",
+            "params": {
+                "killerWeapon": "rake",
+                "endFunc": "nextTip",
+                "zombies": [
+                    {
+                        "boardID": 10
+                    }
+                ]
+            }
+        },
+        "enableKillWithDeathBoxAt12": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 12
+                    }
+                ],
+                "killerWeapon": "deathBox",
+                "endFunc": "nextTip"
+            }
+        },
+        "enableKillWithDeathBoxAt14": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 14
+                    }
+                ],
+                "killerWeapon": "deathBox",
+                "endFunc": "nextTip"
+            }
+        },
+        "enableKillWithHoseAt18": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 18
+                    }
+                ],
+                "killerWeapon": "hose",
+                "endFunc": "nextTip"
+            }
+        },
+        "enableKillAt5": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 5
+                    }
+                ],
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "enableKillAt11-16-19": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 11
+                    },
+                    {
+                        "boardID": 16
+                    },
+                    {
+                        "boardID": 19
+                    }
+                ],
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "enableKillWithStinkBomb": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 7
+                    },
+                    {
+                        "boardID": 8
+                    },
+                    {
+                        "boardID": 9
+                    },
+                    {
+                        "boardID": 12
+                    },
+                    {
+                        "boardID": 13
+                    },
+                    {
+                        "boardID": 14
+                    },
+                    {
+                        "boardID": 17
+                    },
+                    {
+                        "boardID": 18
+                    },
+                    {
+                        "boardID": 19
+                    }
+                ],
+                "endFunc": "killZombieToSkipTip",
+                "killerWeapon": "stinkBomb"
+            }
+        },
+        "enableKillWithTrapAt8-9-12-17-19": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 8
+                    },
+                    {
+                        "boardID": 9
+                    },
+                    {
+                        "boardID": 12
+                    },
+                    {
+                        "boardID": 17
+                    },
+                    {
+                        "boardID": 19
+                    }
+                ],
+                "endFunc": "killZombieToSkipTip",
+                "killerWeapon": "trap"
+            }
+        },
+        "enableKillWithThunderAt13": {
+            "action": "zombieEnableKill",
+            "params": {
+                "zombies": [
+                    {
+                        "boardID": 13
+                    }
+                ],
+                "killerWeapon": "thunder",
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "spawnRake": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "rake"
+            }
+        },
+        "spawnLifeBox": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "delay": 500,
+                "weaponName": "lifeBox"
+            }
+        },
+        "spawnDeathBox": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "delay": 500,
+                "weaponName": "deathBox"
+            }
+        },
+        "spawnStone": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "stone"
+            }
+        },
+        "spawnLollipop": {
+            "action": "spawnPowerUp",
+            "params": {
+                "weaponName": "lollipop",
+                "endFunc": "nextTip"
+            }
+        },
+        "spawnIceCube": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "iceCube"
+            }
+        },
+        "spawnHose": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "hose"
+            }
+        },
+        "spawnStinkBomb": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "stinkBomb"
+            }
+        },
+        "spawnTrap": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "trap"
+            }
+        },
+        "spawnGaviot": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "gaviot"
+            }
+        },
+        "spawnThunder": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "thunder"
+            }
+        },
+        "spawnEarthquake": {
+            "action": "spawnPowerUp",
+            "params": {
+                "endFunc": "nextTip",
+                "weaponName": "earthquake"
+            }
+        },
+        "unlockRake": {
+            "action": "touchWeapon",
+            "params": {
+                "endFunc": "voidFunc",
+                "weaponName": "rake"
+            }
+        },
+        "unlockShovel": {
+            "action": "touchWeapon",
+            "params": {
+                "weaponName": "shovel",
+                "endFunc": "nextTip"
+            }
+        },
+        "unlockGaviot": {
+            "action": "touchWeapon",
+            "params": {
+                "weaponName": "gaviot",
+                "endFunc": "nextTip",
+                "endDelay": 7000
+            }
+        },
+        "unlockEarthquake": {
+            "action": "touchWeapon",
+            "params": {
+                "weaponName": "earthquake",
+                "endFunc": "nextTip",
+                "endDelay": 7500
+            }
+        },
+        "spawnRabbitsAt12-13-14": {
+            "action": "zombieSpawn",
+            "params": {
+                "zombies": [
+                    {
+                        "type": "rabbit",
+                        "boardID": 12,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    }
+                ],
+                "weaponKiller": "rake",
+                "killEnabled": true,
+                "endFunc": "killZombieToSkipTip"
+            }
+        },
+        "finishBoardWeapon": {
+            "action": "finishBoardWeapon"
+        },
+        "listenBoardLifeContainer": {
+            "action": "listenBoardWeapon",
+            "params": {
+                "weaponName": "lifeBox",
+                "endFunc": "nextTip"
+            }
+        },
+        "listenBoardDeathContainer4": {
+            "action": "listenBoardWeapon",
+            "params": {
+                "weaponName": "deathBox",
+                "count": 4,
+                "endFunc": "nextTip"
+            }
+        },
+        "unlockLifeBoxAndListenToWeaponRefill": {
+            "action": "unlockWeaponAndListenToWeaponRefill",
+            "params": {
+                "weaponName": "lifeBox",
+                "endFunc": "nextTip"
+            }
+        },
+        "tripleComboListener": {
+            "action": "listenCombos",
+            "params": {
+                "comboCount": 3,
+                "zombies": [
+                    {
+                        "type": "rabbit",
+                        "boardID": 13,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 14,
+                        "timeToAttack": 0
+                    },
+                    {
+                        "type": "rabbit",
+                        "boardID": 18,
+                        "timeToAttack": 0
+                    }
+                ],
+                "endFunc": "nextTip"
+            }
+        }
+    },
+    "types": {
+        "rabbitAttackTip": {
+            "steps": [
+                {
+                    "message": "rabbit_attack_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnRabbitAt5"
+                },
+                {
+                    "message": "rabbit_attack_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "attackAt5"
+                },
+                {
+                    "message": "rabbit_attack_tip_step_3",
+                    "pos": 0.15,
+                    "handActions": "clickAt5",
+                    "gameplayActions": "enableKillAt5"
+                },
+                {
+                    "message": "rabbit_attack_tip_step_4",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "hysteriaTip": {
+            "steps": [
+                {
+                    "message": "histeria_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnHysteriaKillEnabledAt13"
+                },
+                {
+                    "message": "histeria_tip_step_2",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "pigTip": {
+            "finalGift": {
+                "weaponName": "rake",
+                "weaponQuantity": 6
+            },
+            "steps": [
+                {
+                    "message": "pig_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnPigRabbits"
+                },
+                {
+                    "message": "pig_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "attackAt10_11"
+                },
+                {
+                    "message": "pig_tip_step_3",
+                    "pos": 0.15
+                },
+                {
+                    "message": "pig_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnPigMoles"
+                },
+                {
+                    "message": "pig_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "deactivateBoardTouchExcept10",
+                    "handActions": "clickAt10"
+                },
+                {
+                    "message": "pig_tip_step_6",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnRake"
+                },
+                {
+                    "message": "pig_tip_step_7",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillWithRakeAt10",
+                    "handActions": "swipe7-13"
+                },
+                {
+                    "message": "pig_tip_step_8",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "moleTip": {
+            "steps": [
+                {
+                    "message": "mole_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnMoleKillEnabledAt5"
+                },
+                {
+                    "message": "mole_tip_step_2",
+                    "pos": 0.15
+                },
+                {
+                    "message": "mole_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnLollipop"
+                },
+                {
+                    "message": "mole_tip_step_4",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "tortoiseStoneTip": {
+            "finalGift": {
+                "weaponName": "stone",
+                "weaponQuantity": 3
+            },
+            "steps": [
+                {
+                    "message": "tortoise_stone_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnTortoiseAt13"
+                },
+                {
+                    "message": "tortoise_stone_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillAt13",
+                    "handActions": "doubleClickAt13"
+                },
+                {
+                    "message": "tortoise_stone_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnStone"
+                },
+                {
+                    "message": "tortoise_stone_tip_step_4",
+                    "pos": 0.15
+                },
+                {
+                    "message": "tortoise_stone_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnSomeTortoises"
+                },
+                {
+                    "message": "tortoise_stone_tip_step_6",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "rakeTip": {
+            "finalGift": {
+                "weaponName": "rake",
+                "weaponQuantity": 3
+            },
+            "steps": [
+                {
+                    "message": "rake_tip_step_1",
+                    "pos": 0.15
+                },
+                {
+                    "message": "rake_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnRake"
+                },
+                {
+                    "message": "rake_tip_step_3",
+                    "pos": 0.15
+                },
+                {
+                    "message": "rake_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnRabbitsAt12-13-14"
+                },
+                {
+                    "message": "rake_tip_step_5",
+                    "pos": 0.15
+                },
+                {
+                    "message": "rake_tip_step_6",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "lifeBoxTip": {
+            "finalGift": {
+                "weaponName": "lifeBox",
+                "weaponQuantity": 2
+            },
+            "steps": [
+                {
+                    "message": "lifebox_tip_step_1",
+                    "gameplayActions": "spawnMoleKillDisabledAt4",
+                    "pos": 0.15
+                },
+                {
+                    "message": "lifebox_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnLifeBox"
+                },
+                {
+                    "message": "lifebox_tip_step_3",
+                    "pos": 0.15
+                },
+                {
+                    "message": "lifebox_tip_step_4",
+                    "pos": 0.15,
+                    "handActions": "clickAt5",
+                    "gameplayActions": "deactivateBoardTouchExcept5"
+                },
+                {
+                    "message": "lifebox_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockShovel"
+                },
+                {
+                    "message": "lifebox_tip_step_6",
+                    "pos": 0.15,
+                    "handActions": "swipe4-5",
+                    "gameplayActions": "listenBoardLifeContainer"
+                },
+                {
+                    "message": "lifebox_tip_step_7",
+                    "pos": 0.15,
+                    "gameplayActions": "finishBoardWeapon"
+                },
+                {
+                    "message": "lifebox_tip_step_8",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "deathBoxTip": {
+            "finalGift": {
+                "weaponName": "deathBox",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "deathbox_tip_step_1",
+                    "gameplayActions": "spawnRabbitDogKillWithDeathBoxAt14-17",
+                    "pos": 0.15
+                },
+                {
+                    "message": "deathbox_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnDeathBox"
+                },
+                {
+                    "message": "deathbox_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnFishParrotKillWithDeathBoxAt7-18"
+                },
+                {
+                    "message": "deathbox_tip_step_4",
+                    "pos": 0.15,
+                    "handActions": "clickAt13",
+                    "gameplayActions": "deactivateBoardTouchExcept13"
+                },
+                {
+                    "message": "deathbox_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockShovel"
+                },
+                {
+                    "message": "deathbox_tip_step_6",
+                    "pos": 0.15,
+                    "gameplayActions": "listenBoardDeathContainer4"
+                },
+                {
+                    "message": "deathbox_tip_step_7",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnMoleKillDisabledAt12"
+                },
+                {
+                    "message": "deathbox_tip_step_8",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillWithDeathBoxAt12",
+                    "handActions": "swipe12-13"
+                },
+                {
+                    "message": "deathbox_tip_step_9",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnPigKillDisabledAt14"
+                },
+                {
+                    "message": "deathbox_tip_step_10",
+                    "pos": 0.15,
+                    "handActions": "swipe14-13",
+                    "gameplayActions": "enableKillWithDeathBoxAt14"
+                },
+                {
+                    "message": "deathbox_tip_step_11",
+                    "pos": 0.15
+                },
+                {
+                    "message": "deathbox_tip_step_12",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "buyWeaponTip": {
+            "steps": [
+                {
+                    "message": "buy_weapon_tip_step_1",
+                    "pos": 0.15
+                },
+                {
+                    "message": "buy_weapon_tip_step_2",
+                    "pos": 0.15
+                },
+                {
+                    "message": "buy_weapon_tip_step_3",
+                    "pos": 0.15,
+                    "handActions": "clickAtLifeBox",
+                    "gameplayActions": "unlockLifeBoxAndListenToWeaponRefill"
+                },
+                {
+                    "message": "buy_weapon_tip_step_4",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "comboTip": {
+            "steps": [
+                {
+                    "message": "combo_tip_step_1",
+                    "pos": 0.15
+                },
+                {
+                    "message": "combo_tip_step_2",
+                    "pos": 0.15
+                },
+                {
+                    "message": "combo_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "tripleComboListener",
+                    "handActions": "clickAt18-13-14"
+                },
+                {
+                    "message": "combo_tip_step_4",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "iceCubeTip": {
+            "finalGift": {
+                "weaponName": "iceCube",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "icecube_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnIceCube"
+                },
+                {
+                    "message": "icecube_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "deactivateBoardTouchExcept13",
+                    "handActions": "clickAt13"
+                },
+                {
+                    "message": "icecube_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockShovel"
+                },
+                {
+                    "message": "icecube_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnChihuahuaAt13"
+                },
+                {
+                    "message": "icecube_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillAt13",
+                    "handActions": "clickAt13"
+                },
+                {
+                    "message": "icecube_tip_step_6",
+                    "pos": 0.15
+                },
+                {
+                    "message": "icecube_tip_step_7",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "cageTip": {
+            "steps": [
+                {
+                    "message": "cage_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnCageAt13"
+                },
+                {
+                    "message": "cage_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillAt13",
+                    "handActions": "tripleClickAt13"
+                },
+                {
+                    "message": "cage_tip_step_3",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "hoseCatTip": {
+            "finalGift": {
+                "weaponName": "hose",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "hose_cat_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnCatAt18"
+                },
+                {
+                    "message": "hose_cat_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnHose"
+                },
+                {
+                    "message": "hose_cat_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillWithHoseAt18",
+                    "handActions": "clickAt23"
+                },
+                {
+                    "message": "hose_cat_tip_step_4",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "fishTip": {
+            "steps": [
+                {
+                    "message": "fish_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnFishAt18"
+                },
+                {
+                    "message": "fish_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnHose"
+                },
+                {
+                    "message": "fish_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "deactivateBoardTouchExcept23"
+                },
+                {
+                    "message": "fish_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockShovel"
+                },
+                {
+                    "message": "fish_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillAt18",
+                    "handActions": "clickAt18"
+                }
+            ]
+        },
+        "stinkBombTip": {
+            "finalGift": {
+                "weaponName": "stinkBomb",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "stinkbomb_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnStinkBomb"
+                },
+                {
+                    "message": "stinkbomb_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnSomeRabbits",
+                    "handActions": "clickAt13"
+                },
+                {
+                    "message": "stinkbomb_tip_step_3",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "possumTip": {
+            "steps": [
+                {
+                    "message": "possum_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnPossumsAt11-16-19"
+                },
+                {
+                    "message": "possum_tip_step_2",
+                    "pos": 0.15
+                },
+                {
+                    "message": "possum_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "possumsEat"
+                },
+                {
+                    "message": "possum_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillAt11-16-19"
+                },
+                {
+                    "message": "possum_tip_step_5",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "trapRatTip": {
+            "finalGift": {
+                "weaponName": "trap",
+                "weaponQuantity": 3
+            },
+            "steps": [
+                {
+                    "message": "trap_rat_tip_step_1",
+                    "pos": 0.15
+                },
+                {
+                    "message": "trap_rat_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnTrap"
+                },
+                {
+                    "message": "trap_rat_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "deactivateBoardTouchExcept13",
+                    "handActions": "clickAt13"
+                },
+                {
+                    "message": "trap_rat_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnRatsCagesAt8-9-12-17-19"
+                },
+                {
+                    "message": "trap_rat_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockShovel"
+                },
+                {
+                    "message": "trap_rat_tip_step_6",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillWithTrapAt8-9-12-17-19"
+                },
+                {
+                    "message": "trap_rat_tip_step_7",
+                    "pos": 0.15
+                },
+                {
+                    "message": "trap_rat_tip_step_8",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnRatAt13"
+                },
+                {
+                    "message": "trap_rat_tip_step_9",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnSomeRats"
+                },
+                {
+                    "message": "trap_rat_tip_step_10",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnStinkBomb"
+                },
+                {
+                    "message": "trap_rat_tip_step_11",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillWithStinkBomb",
+                    "handActions": "clickAt7"
+                },
+                {
+                    "message": "trap_rat_tip_step_12",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "gaviotTip": {
+            "finalGift": {
+                "weaponName": "gaviot",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "gaviot_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnSomeZombies"
+                },
+                {
+                    "message": "gaviot_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnGaviot"
+                },
+                {
+                    "message": "gaviot_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockGaviot"
+                },
+                {
+                    "message": "gaviot_tip_step_4",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "mooseThunderTip": {
+            "finalGift": {
+                "weaponName": "thunder",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "moose_thunder_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnMooseAt13"
+                },
+                {
+                    "message": "moose_thunder_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "deactivateBoardTouchExcept13",
+                    "handActions": "clickAt13"
+                },
+                {
+                    "message": "moose_thunder_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnThunder"
+                },
+                {
+                    "message": "moose_thunder_tip_step_4",
+                    "pos": 0.15
+                },
+                {
+                    "message": "moose_thunder_tip_step_5",
+                    "pos": 0.15,
+                    "gameplayActions": "enableKillWithThunderAt13",
+                    "handActions": "swipe12-13"
+                },
+                {
+                    "message": "moose_thunder_tip_step_6",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "skunkTip": {
+            "steps": [
+                {
+                    "message": "skunk_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnSomeZombiesWithSkunk"
+                },
+                {
+                    "message": "skunk_tip_step_2",
+                    "pos": 0.15
+                },
+                {
+                    "message": "skunk_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "skunkExplosion"
+                },
+                {
+                    "message": "skunk_tip_step_4",
+                    "pos": 0.15
+                },
+                {
+                    "message": "skunk_tip_step_5",
+                    "pos": 0.15
+                }
+            ]
+        },
+        "bearEarthquakeTip": {
+            "finalGift": {
+                "weaponName": "earthquake",
+                "weaponQuantity": 1
+            },
+            "steps": [
+                {
+                    "message": "bear_earthquake_tip_step_1",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnBearAt12"
+                },
+                {
+                    "message": "bear_earthquake_tip_step_2",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnMooseAt14"
+                },
+                {
+                    "message": "bear_earthquake_tip_step_3",
+                    "pos": 0.15,
+                    "gameplayActions": "spawnEarthquake"
+                },
+                {
+                    "message": "bear_earthquake_tip_step_4",
+                    "pos": 0.15,
+                    "gameplayActions": "unlockEarthquake"
+                },
+                {
+                    "message": "bear_earthquake_tip_step_5",
+                    "pos": 0.15
+                },
+                {
+                    "message": "bear_earthquake_tip_step_6",
+                    "pos": 0.15
+                }
+            ]
+        }
+    },
+    "handActions": {
+        "hello": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "x": 0.5,
+                        "y": 0.5,
+                        "rotation": 180,
+                        "anchorX": 0.5,
+                        "anchorY": 0
+                    }
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "rotation": 150,
+                        "time": 100
+                    }
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "rotation": 210,
+                        "time": 200
+                    }
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "rotation": 150,
+                        "time": 200
+                    }
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "rotation": 210,
+                        "time": 200
+                    }
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "rotation": 180,
+                        "time": 100
+                    }
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 500
+                    }
+                }
+            ],
+            "isLoop": false,
+            "endFunc": "nextTip"
+        },
+        "swipe4-5": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "boardID": 4,
+                        "rotation": 180
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "boardID": 5,
+                        "time": 500,
+                        "easing": "inOutExpo"
+                    }
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 500
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "swipe12-13": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "boardID": 12,
+                        "rotation": 180
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "boardID": 13,
+                        "time": 500,
+                        "easing": "inOutExpo"
+                    }
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 500
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "swipe14-13": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "boardID": 14,
+                        "rotation": 180
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "boardID": 13,
+                        "time": 1000,
+                        "easing": "inOutExpo"
+                    }
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 500
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "swipe7-13": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "boardID": 7,
+                        "rotation": 180
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "boardID": 13,
+                        "time": 500,
+                        "easing": "inOutExpo"
+                    }
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 500
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "swipe9-17": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "boardID": 9,
+                        "rotation": 180
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "move",
+                    "params": {
+                        "boardID": 17,
+                        "time": 500,
+                        "easing": "inOutExpo"
+                    }
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 500
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt12": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 12,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt5": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 5,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt13": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 13,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt18": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 18,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt23": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 23,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt7": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 7,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "doubleClickAt13": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 13,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "tripleClickAt13": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 13,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAtLifeBox": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "weapon": "lifeBox",
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt18-13-14": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 500,
+                        "boardID": 18,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 50
+                    }
+                },
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 50,
+                        "boardID": 13,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 50
+                    }
+                },
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 50,
+                        "boardID": 14,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        },
+        "clickAt10": {
+            "actions": [
+                {
+                    "action": "appear",
+                    "params": {
+                        "delay": 1000,
+                        "boardID": 10,
+                        "rotation": 0
+                    }
+                },
+                {
+                    "action": "click"
+                },
+                {
+                    "action": "unclick"
+                },
+                {
+                    "action": "disappear",
+                    "params": {
+                        "delay": 100
+                    }
+                }
+            ],
+            "isLoop": true
+        }
+    },
+    "_acl": {
+        "owner": "ce88af25-8036-4c2a-a179-fca6a266b47d",
+        "mode": 0
+    }
+}

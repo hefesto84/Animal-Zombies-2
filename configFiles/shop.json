@@ -1,0 +1,264 @@
+{
+    "_id": "530718afe4b02b6d56a43c26",
+    "shop": {
+        "weapons": [
+            {
+                "description": "extraLifes_desc",
+                "boosterData": [
+                    {
+                        "quantity": 7,
+                        "price": 1500
+                    }
+                ],
+                "spriteIndex": 1,
+                "name": "extraLifes_name"
+            },
+            {
+                "description": "lifeBox_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 45,
+                        "quantity": 1,
+                        "price": 180
+                    },
+                    {
+                        "gameplayPrice": 80,
+                        "quantity": 2,
+                        "price": 340
+                    },
+                    {
+                        "gameplayPrice": 120,
+                        "quantity": 3,
+                        "price": 500
+                    }
+                ],
+                "spriteIndex": 20,
+                "name": "lifeBox_name"
+            },
+            {
+                "description": "rake_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 40,
+                        "quantity": 3,
+                        "price": 160
+                    },
+                    {
+                        "gameplayPrice": 70,
+                        "quantity": 6,
+                        "price": 300
+                    },
+                    {
+                        "gameplayPrice": 100,
+                        "quantity": 9,
+                        "price": 440
+                    }
+                ],
+                "spriteIndex": 18,
+                "name": "rake_name"
+            },
+            {
+                "description": "deathBox_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 45,
+                        "quantity": 1,
+                        "price": 180
+                    },
+                    {
+                        "gameplayPrice": 80,
+                        "quantity": 2,
+                        "price": 340
+                    },
+                    {
+                        "gameplayPrice": 120,
+                        "quantity": 3,
+                        "price": 500
+                    }
+                ],
+                "spriteIndex": 12,
+                "name": "deathBox_name"
+            },
+            {
+                "description": "stone_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 20,
+                        "quantity": 3,
+                        "price": 90
+                    },
+                    {
+                        "gameplayPrice": 40,
+                        "quantity": 6,
+                        "price": 160
+                    },
+                    {
+                        "gameplayPrice": 60,
+                        "quantity": 9,
+                        "price": 240
+                    }
+                ],
+                "spriteIndex": 16,
+                "name": "stone_name"
+            },
+            {
+                "description": "iceCube_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 30,
+                        "quantity": 3,
+                        "price": 120
+                    },
+                    {
+                        "gameplayPrice": 50,
+                        "quantity": 6,
+                        "price": 220
+                    },
+                    {
+                        "gameplayPrice": 80,
+                        "quantity": 9,
+                        "price": 340
+                    }
+                ],
+                "spriteIndex": 11,
+                "name": "iceCube_name"
+            },
+            {
+                "description": "hose_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 50,
+                        "quantity": 1,
+                        "price": 200
+                    },
+                    {
+                        "gameplayPrice": 90,
+                        "quantity": 2,
+                        "price": 380
+                    },
+                    {
+                        "gameplayPrice": 140,
+                        "quantity": 3,
+                        "price": 560
+                    }
+                ],
+                "spriteIndex": 13,
+                "name": "hose_name"
+            },
+            {
+                "description": "stinkBomb_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 60,
+                        "quantity": 1,
+                        "price": 250
+                    },
+                    {
+                        "gameplayPrice": 120,
+                        "quantity": 2,
+                        "price": 480
+                    },
+                    {
+                        "gameplayPrice": 160,
+                        "quantity": 3,
+                        "price": 700
+                    }
+                ],
+                "spriteIndex": 2,
+                "name": "stinkBomb_name"
+            },
+            {
+                "description": "trap_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 30,
+                        "quantity": 3,
+                        "price": 120
+                    },
+                    {
+                        "gameplayPrice": 50,
+                        "quantity": 6,
+                        "price": 220
+                    },
+                    {
+                        "gameplayPrice": 80,
+                        "quantity": 9,
+                        "price": 340
+                    }
+                ],
+                "spriteIndex": 21,
+                "name": "trap_name"
+            },
+            {
+                "description": "gaviot_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 60,
+                        "quantity": 1,
+                        "price": 270
+                    },
+                    {
+                        "gameplayPrice": 120,
+                        "quantity": 2,
+                        "price": 500
+                    },
+                    {
+                        "gameplayPrice": 180,
+                        "quantity": 3,
+                        "price": 780
+                    }
+                ],
+                "spriteIndex": 15,
+                "name": "gaviot_name"
+            },
+            {
+                "description": "thunder_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 50,
+                        "quantity": 1,
+                        "price": 220
+                    },
+                    {
+                        "gameplayPrice": 100,
+                        "quantity": 2,
+                        "price": 400
+                    },
+                    {
+                        "gameplayPrice": 150,
+                        "quantity": 3,
+                        "price": 620
+                    }
+                ],
+                "spriteIndex": 10,
+                "name": "thunder_name"
+            },
+            {
+                "description": "earthquake_desc",
+                "boosterData": [
+                    {
+                        "gameplayPrice": 70,
+                        "quantity": 1,
+                        "price": 300
+                    },
+                    {
+                        "gameplayPrice": 140,
+                        "quantity": 2,
+                        "price": 340
+                    },
+                    {
+                        "gameplayPrice": 200,
+                        "quantity": 3,
+                        "price": 800
+                    }
+                ],
+                "spriteIndex": 19,
+                "name": "earthquake_name"
+            }
+        ]
+    },
+    "_acl": {
+        "owner": "ce88af25-8036-4c2a-a179-fca6a266b47d",
+        "mode": 0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_id": "5305fb89e4b02b6d56a43bb5",
+    "bankShop": {
+        "bank": [
+            {
+                "storeID": "bank_00_coins",
+                "quantity": 140,
+                "itemName": "bag",
+                "itemDescription": "bag_desc",
+                "price": 0.89
+            },
+            {
+                "storeID": "bank_01_coins",
+                "quantity": 320,
+                "itemName": "sack",
+                "itemDescription": "sack_desc",
+                "price": 1.79
+            },
+            {
+                "storeID": "bank_02_coins",
+                "quantity": 800,
+                "itemName": "briefcase",
+                "itemDescription": "briefcase_desc",
+                "price": 4.99
+            },
+            {
+                "storeID": "bank_03_coins",
+                "quantity": 1700,
+                "itemName": "chest",
+                "itemDescription": "chest_desc",
+                "price": 8.99
+            },
+            {
+                "storeID": "bank_04_coins",
+                "quantity": 4500,
+                "itemName": "safe",
+                "itemDescription": "safe_desc",
+                "price": 22.49
+            },
+            {
+                "storeID": "bank_twitter_coins",
+                "quantity": 80,
+                "itemName": "twitter",
+                "itemDescription": "twitter_desc",
+                "price": 0
+            },
+            {
+                "storeID": "bank_facebook_coins",
+                "quantity": 100,
+                "itemName": "facebook",
+                "itemDescription": "facebook_desc",
+                "price": 0
+            }
+        ]
+    },
+    "_acl": {
+        "owner": "ce88af25-8036-4c2a-a179-fca6a266b47d",
+        "mode": 0
+    }
+}

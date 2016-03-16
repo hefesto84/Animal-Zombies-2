@@ -1,0 +1,3404 @@
+{
+    "_id": "534bca4fe4b0aea6e0a3143f",
+    "unlockStageWithBones": 3,
+    "gameplay": {
+        "stages": [
+            {
+                "levels": [
+                    {
+                        "initialStory": {
+                            "storyPath": "assets/StagesGraphics/Stage1/Story/story01.jpg",
+                            "storyText": "story_1_2"
+                        },
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "powerups": [
+                                {
+                                    "percent": 20
+                                },
+                                {
+                                    "name": "shovel",
+                                    "percent": 40
+                                },
+                                {
+                                    "name": "shovel",
+                                    "percent": 60
+                                },
+                                {
+                                    "name": "shovel",
+                                    "percent": 80
+                                }
+                            ],
+                            "lollipops": [
+                                500,
+                                600,
+                                700,
+                                800,
+                                900,
+                                1000
+                            ],
+                            "ingameTip": "rabbitAttackTip",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 3,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                }
+                            ],
+                            "ingameTip": "moleTip",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 4,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "rake",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                },
+                                {
+                                    "type": "dog",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "rakeTip",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 4,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "dog",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "parrot",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 5,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                },
+                                {
+                                    "type": "dog",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "parrot",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "pig",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 5,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 800,
+                                    "maxAttackSpeed": 1600
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                },
+                                {
+                                    "type": "dog",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "parrot",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 800,
+                                    "maxAttackSpeed": 1600
+                                },
+                                {
+                                    "type": "pig",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 6,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "mole",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                },
+                                {
+                                    "type": "dog",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "parrot",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "pig",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "cat",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "fish",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 7,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                },
+                                {
+                                    "type": "pig",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "cat",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "fish",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "tortoise",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 8,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "mole",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 0,
+                                    "minAttackSpeed": 500,
+                                    "maxAttackSpeed": 1000
+                                },
+                                {
+                                    "type": "dog",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 800,
+                                    "maxAttackSpeed": 1600
+                                },
+                                {
+                                    "type": "parrot",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "pig",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                },
+                                {
+                                    "type": "cat",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 800,
+                                    "maxAttackSpeed": 1600
+                                },
+                                {
+                                    "type": "fish",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 800,
+                                    "maxAttackSpeed": 1600
+                                },
+                                {
+                                    "type": "tortoise",
+                                    "quantity": 15,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 9,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "rake",
+                            "zombies": [
+                                {
+                                    "type": "rat",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "moose",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "bear",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "skunk",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "possum",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "cage",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "duck",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "chihuahua",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                },
+                                {
+                                    "type": "turkey",
+                                    "quantity": 10,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 10,
+                                    "minAttackSpeed": 10000,
+                                    "maxAttackSpeed": 20000
+                                }
+                            ],
+                            "powerups": [
+                                {
+                                    "percent": 5
+                                },
+                                {
+                                    "percent": 20
+                                },
+                                {
+                                    "percent": 50
+                                },
+                                {
+                                    "name": "rake",
+                                    "percent": 80
+                                }
+                            ],
+                            "lollipops": [
+                                500,
+                                600,
+                                700,
+                                800,
+                                900,
+                                1000
+                            ],
+                            "ingameTip": "rakeTip",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 1,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    },
+                    {
+                        "finalStory": {
+                            "storyPath": "assets/StagesGraphics/Stage1/Story/story09.jpg",
+                            "storyText": "story_1_1"
+                        },
+                        "boardData": {
+                            "propertiesInfo": {
+                                "W": 5,
+                                "H": 5,
+                                "centerPercX": 0.5,
+                                "centerPercY": 0.5,
+                                "tileSizeFromTotalWidth": 0.2
+                            },
+                            "propsInfo": {
+                                "propOccupacy": 0.4,
+                                "prop1x1ProbMin": 0,
+                                "prop1x1ProbMax": 0.25,
+                                "propReserved": [
+                                    12,
+                                    13,
+                                    14
+                                ]
+                            },
+                            "patternsInfo": {
+                                "regular": [
+                                    {
+                                        "idPattern": "fila_superior",
+                                        "pattern": "1111100000000000000000000",
+                                        "zombiesID": [
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua",
+                                            "chihuahua"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "fila_inferior",
+                                        "pattern": "0000000000000000000011111",
+                                        "zombiesID": [
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog",
+                                            "dog"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_esq",
+                                        "pattern": "1000010000100001000010000",
+                                        "zombiesID": [
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot",
+                                            "parrot"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "columna_dre",
+                                        "pattern": "0000100001000010000100001",
+                                        "zombiesID": [
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat",
+                                            "cat"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_up",
+                                        "pattern": "0000100010001000100010000",
+                                        "zombiesID": [
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish",
+                                            "fish"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "diagonal_down",
+                                        "pattern": "1000001000001000001000001",
+                                        "zombiesID": [
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck",
+                                            "duck"
+                                        ]
+                                    },
+                                    {
+                                        "idPattern": "cross",
+                                        "pattern": "0000000100011100010000000",
+                                        "zombiesID": [
+                                            "cage",
+                                            "pig",
+                                            "queen",
+                                            "pig",
+                                            "pig"
+                                        ]
+                                    }
+                                ],
+                                "lastWave": []
+                            }
+                        },
+                        "levelBalance": {
+                            "unlockedWeapon": "none",
+                            "zombies": [
+                                {
+                                    "type": "rabbit",
+                                    "quantity": 20,
+                                    "minAttacks": 0,
+                                    "maxAttacks": 1,
+                                    "minAttackSpeed": 1000,
+                                    "maxAttackSpeed": 2000
+                                }
+                            ],
+                            "ingameTip": "none",
+                            "emblem": 0,
+                            "zombieSpawnProbability": 1000,
+                            "lollipopSpawnProbability": 0,
+                            "rakeSpawnProbability": 0,
+                            "maxZombiesPerScreen": 10,
+                            "wavePercent": 0,
+                            "medTime": 0,
+                            "bonesPercent": [
+                                50,
+                                100
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "recoveryInfo": [
+            {
+                "levelLimit": 5,
+                "notifsInfo": [
+                    {
+                        "minutesElapsed": 1,
+                        "lifesEarned": 1
+                    },
+                    {
+                        "minutesElapsed": 30,
+                        "lifesEarned": 4
+                    }
+                ]
+            },
+            {
+                "levelLimit": 10,
+                "notifsInfo": [
+                    {
+                        "minutesElapsed": 2,
+                        "lifesEarned": 1
+                    },
+                    {
+                        "minutesElapsed": 30,
+                        "lifesEarned": 4
+                    }
+                ]
+            },
+            {
+                "levelLimit": 15,
+                "notifsInfo": [
+                    {
+                        "minutesElapsed": 4,
+                        "lifesEarned": 1
+                    },
+                    {
+                        "minutesElapsed": 30,
+                        "lifesEarned": 4
+                    }
+                ]
+            },
+            {
+                "levelLimit": 25,
+                "notifsInfo": [
+                    {
+                        "minutesElapsed": 8,
+                        "lifesEarned": 1
+                    },
+                    {
+                        "minutesElapsed": 30,
+                        "lifesEarned": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "_acl": {
+        "owner": "ce88af25-8036-4c2a-a179-fca6a266b47d",
+        "mode": 0
+    }
+}

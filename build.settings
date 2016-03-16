@@ -1,0 +1,87 @@
+-- Supported values for orientation:
+-- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+
+settings = {
+    
+    orientation = {
+        default = "portrait",
+        supported = { "portrait", }
+    },
+    
+    iphone = {
+        plist = {
+            UIPrerenderedIcon = true, 
+            UIStatusBarHidden = true,
+            UIAppFonts = 
+            {
+                "Interstate-BlackCondensed.ttf",
+                "Interstate-Regular.ttf",
+                "HFF Low Sun.ttf",
+                "HauntAOE.ttf"
+            },
+            
+            CFBundleLocalizations =
+            {
+                "English",
+                "Spanish",
+                "Catalan",
+                "Italian"
+            },
+            
+            -- iOS app URL schemes:
+            UIApplicationExitsOnSuspend = false,
+            FacebookAppID = "1451463131760806",
+            
+            CFBundleIdentifier = "com.thousandgears.animalzombies2",
+            CFBundleURLTypes =
+            {
+                {
+                    CFBundleURLSchemes =
+                    {
+                        "fb1451463131760806", -- example scheme for facebook
+                        "coronasdkapp", -- example second scheme
+                    }
+                }
+            },
+            
+            CFBundleIconFile = "Icon.png",
+            CFBundleIconFiles = {
+				"Icon.png",
+				"Icon@2x.png",
+				"Icon-72.png",
+				"Icon-72@2x.png",
+				"Icon-60.png",
+				"Icon-60@2x.png",
+				"Icon-76.png",
+				"Icon-76@2x.png"
+            },
+            
+        },
+        components = {}
+    },
+    
+    --Android
+    --[[android = {
+		googlePlayGamesAppId = "47198747156",
+		--usesExpansionFile = true,
+		usesPermissions =
+		{
+			"android.permission.VIBRATE",
+			"android.permission.INTERNET",
+			"android.permission.ACCESS_NETWORK_STATE",
+			"android.permission.WRITE_EXTERNAL_STORAGE",
+			"com.android.vending.BILLING",
+			"com.android.vending.CHECK_LICENSE",
+		}
+	},
+    plugins = {
+		["CoronaProvider.gameNetwork.google"] = { publisherId = "com.coronalabs" },
+		["plugin.google.iap.v3"] = { publisherId = "com.coronalabs" }
+	}]]
+    
+    --iOS
+    plugins = {
+		["plugin.openudid"] = { publisherId = "com.coronalabs" },
+		["facebook"] = { publisherId = "com.coronalabs", supportedPlatforms = { iphone = true, ["iphone-sim"] = true } }
+	}
+}

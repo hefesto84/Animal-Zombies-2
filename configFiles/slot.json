@@ -1,0 +1,4627 @@
+{
+    "_id": "532015e0e4b0a4b917095079",
+    "probabilities": {
+        "stage": [
+            {
+                "level": [
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.32,
+                            "prob3": 0.01,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "level": [
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.5,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "level": [
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.4,
+                            "prob3": 0.1,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "level": [
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.32,
+                            "prob3": 0.05,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "regular": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "coin",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "stone",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "iceCube",
+                                    "prob": 0.2
+                                }
+                            ]
+                        },
+                        "lollipop": {
+                            "prob2": 0.6,
+                            "prob3": 0.2,
+                            "weapons": [
+                                {
+                                    "name": "lollipop",
+                                    "prob": 0.2
+                                },
+                                {
+                                    "name": "grave",
+                                    "prob": 0.4
+                                },
+                                {
+                                    "name": "skull",
+                                    "prob": 0.4
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "_acl": {
+        "owner": "ce88af25-8036-4c2a-a179-fca6a266b47d",
+        "mode": 0
+    }
+}

@@ -1,0 +1,1997 @@
+{
+    "_id": "5347d016e4b0383d5a136226",
+    "trap_name": {
+        "en": "TRAP",
+        "es": "TRAMPA",
+        "ca": "TRAMPA",
+        "it": "TRAPPOLA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "county_fair_upper": {
+        "en": "County",
+        "es": "Feria",
+        "ca": "Fira",
+        "it": "Fiera",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bonus_combo_score": {
+        "en": "Combo bonus score",
+        "es": "Bonus por combo",
+        "ca": "Bonus per combo",
+        "it": "Bonus per combo",
+        "ru": "bonus_combo_score[ru]",
+        "ch": "bonus_combo_score[ch]"
+    },
+    "pp_next_recharge": {
+        "en": "NEXT RECHARGE",
+        "es": "PRÓXIMA RECARGA",
+        "ca": "PROPERA RECÀRREGA",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "coming_soon": {
+        "en": "COMING SOON",
+        "es": "PRÓXIMAMENTE",
+        "ca": "PRÒXIMAMENT",
+        "it": "PROSSIMAMENTE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "time": {
+        "en": "Time",
+        "es": "Tiempo",
+        "ca": "Temps",
+        "it": "Tempo",
+        "ru": "time[ru]",
+        "ch": "時間"
+    },
+    "pet_cemetery_upper": {
+        "en": "Pet",
+        "es": "Cementerio",
+        "ca": "Cementiri",
+        "it": "Cimitero",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "levels": {
+        "en": "Levels",
+        "es": "Niveles",
+        "ca": "Nivells",
+        "it": "Livelli",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_keep_playing": {
+        "en": "KEEP PLAYING",
+        "es": "SIGUE JUGANDO",
+        "ca": "SEGUEIX JUGANT",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_name": {
+        "en": "RAKE",
+        "es": "RASTRILLO",
+        "ca": "RAMPÍ",
+        "it": "RASTRELLO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "hose_cat_tip_step_3": {
+        "en": "Plant the hose. You'll see it lasts a feew seconds and throws a blast of water from the bottom of the board and goes up as it kills the zombies.",
+        "es": "Planta la manguera. Verás que tiene una duració de unos segundos y lanza un chorro de agua des de la parte baja de el tablero, que sube por la pantalla a medida que mueren los zombies.",
+        "ca": "Planta la menguera. Veuras que dura uns segons i llança un raig d'aigua des de la part baixa del taulell que puja per tota la pantalla a mesura que moren els zombies.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "hose_cat_tip_step_2": {
+        "en": "The cats have 7 life points and it's hard to kill them with a shovel. Take the hose!",
+        "es": "Los gatos tienen 7 puntos de vida y es muy didicil matarlos con la pala. ¡Coge la manguera que te regalo!",
+        "ca": "Els gats tenen 7 punts de vida i és molt díficil matar-los amb la pala. Agafa la manguera que et regalo!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "hose_cat_tip_step_1": {
+        "en": "Yes, it's me again. Today I'm gonna introduce you to a new weapon and zombie. The hose it's perfect to kill cats, now I'm gonna show you why.",
+        "es": "Sí, vuelvo a ser yo. Hoy te presentaré una arma y un zombie. La manguera es perfecta para matar a los gatos, ahora te explico por qué.",
+        "ca": "Sí, torno a ser jo. Avui et presentaré una arma i un zombie. La manguera és perfecta per matar els gats, ara t'explico per què.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_9": {
+        "en": "When you drag an animal thats not a zombie inside a death box you'll lose a life",
+        "es": "Cuando arrastras un animal que no sea zombie dentro de una caja de muerte perderás una vida",
+        "ca": "Quan arrosseguis un animal que no és un zombie dins d'una caixa de mort perdràs una vida",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "loading": {
+        "en": "LOADING",
+        "es": "CARGANDO",
+        "ca": "CARREGANT",
+        "it": "CARICANDO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_7": {
+        "en": "I see you are a master. The death boxes can be big alies on stressfull levels",
+        "es": "Veo que se te da genial. Las cajas de muerte pueden ser grandes aliadas en niveles estresantes",
+        "ca": "Veig que ho portes molt bé. Les caixes de mort poden ser grans aliades en nivells estressants",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_8": {
+        "en": "See that mole? Try to drag him inside the death box...",
+        "es": "¿Ves ese topo? Trata de arrastrarlo a la caja de muerte...",
+        "ca": "Veus el talp? Prova d'arrossegar-lo dins la caixa de mort...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "hose_cat_tip_step_4": {
+        "en": "As you have seen, the hose can be very usefull in order to get rid of cats, you plant it and it's done. I give you one so you can test it on the gameplay.",
+        "es": "Como has podido observar, la manguera puede ser muy útil para matar gatos al plantarla y despreocuparte. Te regalo una para que puedas probarla.",
+        "ca": "Com has vist la manguera et pot ser molt útil per matar el gat, ja que la plantes i te'n despreocupes. Et regalo una manguera perquè la puguis fer servir.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "extraLifes_name": {
+        "en": "EXTRA LIFE",
+        "es": "VIDA EXTRA",
+        "ca": "VIDA EXTRA",
+        "it": "VITA EXTRA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rate_app_details": {
+        "en": "Please rate this app to help support future development",
+        "es": "Por favor, valora esta app y ayudarás a su desarrollo futuro",
+        "ca": "Si us plau, valora aquesta app i ajudaràs al seu futur desenvolupament",
+        "it": "Per favore, valuta questa app e contribuirai al suo svilupo",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_need_coins": {
+        "en": "Need coins?",
+        "es": "Necesitas monedas?",
+        "ca": "Necessites monedes?",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_refill_item": {
+        "en": "Refill item",
+        "es": "Rellenar arma",
+        "ca": "Reomplir arma",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bear_earthquake_tip_step_2": {
+        "en": "The Bear is the strongest amongst all zombies. It has 10 points of life! Just as the moose, can only be killed by two weapons. The thunder that you already know and the earthquake that I'll introduce now.",
+        "es": "El Oso es el zombie más resistente de todos. ¡Tiene 10 puntos de vida! Del mismo modo que el ciervo solo se puede matar con dos armas. El rayo que ya conoces y el terremoto que conocerás ahora.",
+        "ca": "L'Ós és el zombie més resistent de tots. Té 10 punts de vida! De la mateixa manera que el cèrvol només poden matar-lo dues armes. El llamp que ja conèixes i el terratrèmol que coneixeràs ara.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bear_earthquake_tip_step_3": {
+        "en": "Get the earthquake!",
+        "es": "¡Coge el terremoto!",
+        "ca": "Agafa el terratrèmol!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_desc": {
+        "en": "Place the trap on the ground and drag the zombies on it to kill them.",
+        "es": "Coloca la trampa en el suelo y arrastra a los zombies sobre ella para matarlos.",
+        "ca": "Coloca la trampa al terra i arrossega els zombies a sobre per matar-los",
+        "it": "Collocare la trappola a terra e trascinarlo sul zombie per ucciderli.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bear_earthquake_tip_step_1": {
+        "en": "Wow! You've come a long way in your struggle against Zombies Animals! Finally it's time to introduce the bear to you.",
+        "es": "¡Caray! ¡Has llegado muy lejos en tu lucha contra los Animales Zombies! Finalmente ha llegado el momento de presentarte el oso.",
+        "ca": "Carai! Has arribat molt lluny en la teva lluita contra els Animal Zombies! Finalment ha arribat l'hora de presentar-te l'Ós de les cabernes!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bear_earthquake_tip_step_6": {
+        "en": "Look, I give you an earthquake!",
+        "es": "Mira, ¡te regalo un terremoto!",
+        "ca": "Mira, et regalo un terratrèmol!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bear_earthquake_tip_step_4": {
+        "en": "Select the earthquake!",
+        "es": "¡Selecciona el terremoto!",
+        "ca": "Selcciona el terratrèmol!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bear_earthquake_tip_step_5": {
+        "en": "As you can see, the earthquake, as the pigeons, is a weapon of direct action. It's very powerful because there is no animal resistant to this weapon and also takes all points of life.",
+        "es": "Como has podido ver el terremoto, como las palomas, es un arma de acción directa. Es muy potente por qué no hay ningún animal resistente a este y además resta todos los puntos de vida.",
+        "ca": "Com has pogut veure el terratrèmol, com els coloms, és una arma d'acció directa. És una arma molt potent perquè no hi ha cap animal que hi sigui resistent i a més a més resta tots els punts de vida.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_6": {
+        "en": "Now drag all the zombies inside the box",
+        "es": "Ahora arrastra a todos los zombies al interior de la caja",
+        "ca": "Ara arrossega tots els zombies a dins de la caixa",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_5": {
+        "en": "Like with the life box, to put them inside you may choose the shovel",
+        "es": "Como con la caja de vida, para meterlos dentro deberás seleccionar la pala",
+        "ca": "Com amb les caixes de vida, per posar-los dins hauries de seleccionar la pala",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_4": {
+        "en": "Touch the board to plant the box",
+        "es": "Pulsa en el tablero para plantar la caja",
+        "ca": "Toca el taulell per plantar la caixa",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_3": {
+        "en": "The concept is similar to the life boxes, but they are oposites: in this box you can drag zombies mercilessly",
+        "es": "El concepto es similar a las cajas de vida, pero son lo contrario: en esta caja podrás arrastrar zombies sin compasión",
+        "ca": "El concepte és similar a les caixes de vida, però són el contrari: en aquesta caixa hi podràs arrestrar zombies sense compassió",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_2": {
+        "en": "I present you the death boxes",
+        "es": "Te presento las cajas de muerte",
+        "ca": "Et presento les caixes de mort",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_1": {
+        "en": "Hello again King Slayer",
+        "es": "Hola de nuevo Mata Reyes",
+        "ca": "Hola de nou Mata Reis",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_refill_upper": {
+        "en": "TRY YOUR LUCK",
+        "es": "PRUEVA SUERTE EN",
+        "ca": "PROVA SORT A",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_7": {
+        "en": "You may also want to know that the cube lasts a feew seconds and while it has a zombie inside, the cube blocks that hole",
+        "es": "También ten en cuenta que el cubo dura unos segundos y mientras tenga un zombie dentro, por este hueco no podrán salir más zombies",
+        "ca": "També hauries de saber que el Cub dura uns segons i si té un zombie a dins no podrà sortir cap zombie al lloc que ocupa.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_6": {
+        "en": "As you can see with breaking the ice you killed the zombie, but be carefull. The strong zombies won't die, because the ice only reduces one point of life",
+        "es": "Como ves al romper el hileo puedes matar al zombie, pero ve con cudiado. Los que tengan mas resistencia no moriran, sinó que el hilo soló les restará una vida",
+        "ca": "Com pots veure al trencar el gel pots matar el zombie, però ves en compte! Els que tinguin més resistència no moriran, ja que el gel només resta una vida",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_5": {
+        "en": "Hit the ice with the shovel.",
+        "es": "Golpea el hielo con la pala.",
+        "ca": "Ara pica el gel amb la pala.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_4": {
+        "en": "Look! A zombie spawned just below the ice cube. If you do nothing the ice will melt and nothing will happen",
+        "es": "¡Mira! Ha salido un zombie justo debajo de el hielo. Si no haces nada, el hielo se derretirá y no le passara nada",
+        "ca": "Mira! Ha sortit un zombie just a sota del gel! Si no fas res, el gel es fondrà i al zombie no li passarà res.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_3": {
+        "en": "Get ready, select the shovel",
+        "es": "Preparate, selecciona la pala",
+        "ca": "Prepara't, selecciona la pala.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_2": {
+        "en": "Plant the cube on the ground, you'll see with surprise what happens if a zombie spawns",
+        "es": "Planta el cubo en el suelo, veras como sale un zombie y se lleva una sorpresa.",
+        "ca": "Planta el cub a terra, veuràs com si surt un zombie s'emporta una sorpresa.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "icecube_tip_step_1": {
+        "en": "Hi again! Today I'm feeling generous and I'll teach you about a new weapon. The ice cube. Get it!",
+        "es": "¡Hola de nuevo! Como hoy me siento generoso tengo pensado enseñarte como funciona una nueva arma. El cubito de hielo. ¡Cogelo!",
+        "ca": "Hola de nou! Com que avui em sento generós tinc pensat ensenyar-te com funciona una nova arma. El Cub de Gel! Mira com cau. Agafa'l!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "cherrys_neighborhood_upper": {
+        "en": "Cherry's",
+        "es": "El vecindario",
+        "ca": "El veïnat",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "gaviot_name": {
+        "en": "PIGEON",
+        "es": "PALOMA",
+        "ca": "COLOM",
+        "it": "COLOMBA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "congrats": {
+        "en": "Congratulations!",
+        "es": "¡Felicidades!",
+        "ca": "Felicitats!",
+        "it": "Congratulazioni!",
+        "ru": "congrats[ru]",
+        "ch": "おめでとう!"
+    },
+    "hose_desc": {
+        "en": "You can kill all the zombies that are in line with the water jet.",
+        "es": "Podrás matar a todos los zombies que estén en la misma línea que el chorro de agua.",
+        "ca": "Podràs matar tots els zombies que es trobin a la mateixa linia que el raig d'aigua.",
+        "it": "Si può uccidere tutti gli zombie che sono in linea con il getto d'acqua.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "chest_desc": {
+        "en": "Buy a chest full of coins",
+        "es": "Compra un cofre lleno de monedas",
+        "ca": "Compra un cofre ple de monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "safe": {
+        "en": "SAFE",
+        "es": "CAJA FUERTE",
+        "ca": "CAIXA FORTA",
+        "it": "CCASSAFORTE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "fb_caption": {
+        "en": "Play Animal Zombies in your smartphone!",
+        "es": "¡Juega a Animal Zombies en tu smartphone!",
+        "ca": "Juga a Animal Zombies en el teu smartphone!",
+        "it": "Gioca a Animal Zombies con il tuo smartphone!",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "SURVIVAL": {
+        "en": "SURVIVAL",
+        "es": "SUPERVIVENCIA",
+        "ca": "SUPERVIVÈNCIA",
+        "it": "SOPRAVVIVENZA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "briefcase_desc": {
+        "en": "Buy a briefcase full of coins",
+        "es": "Compra un maletín lleno de monedas",
+        "ca": "Compra un maletí ple de monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "yes": {
+        "en": "Yes",
+        "es": "Sí",
+        "ca": "Si",
+        "it": "Si",
+        "ru": "Spenatz",
+        "ch": "はい"
+    },
+    "hose_name": {
+        "en": "HOSE",
+        "es": "MANGUERA",
+        "ca": "MANGUERA",
+        "it": "TUBO FLESSIBILE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_refill_lollipops": {
+        "en": "REFILL LOLLIPOPS",
+        "es": "RECARGA PIRULETAS",
+        "ca": "RECARREGA PIRULETES",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bag_desc": {
+        "en": "Buy a bag full of coins",
+        "es": "Compra una bolsa llena de monedas",
+        "ca": "Compra una bossa plena de monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "on_fb": {
+        "en": "ON FACEBOOK",
+        "es": "EN FACEBOOK",
+        "ca": "EN FACEBOOK",
+        "it": "SU FACEBOOK",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "gaviot_desc": {
+        "en": "Summons a group of pigeons of the Inferno to launch his explosive poops on all the zombies that are in place.",
+        "es": "Invoca a un grupo de palomas del Averno que lanzarán sus cacas explosivas sobre todos los zombies que hay en el lugar.",
+        "ca": "Invoca un grup de coloms de l'Avern que deixaran caure les seves caques explosives sobre tots els zombies del taulell.",
+        "it": "Evoca un gruppo di piccioni Averno per lanciare le sue poppe esplosive su tutti gli zombie che sono in atto.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "PLAY": {
+        "en": "PLAY",
+        "es": "JUGAR",
+        "ca": "JUGAR",
+        "it": "GIOCA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "stone_name": {
+        "en": "STONE",
+        "es": "PIEDRA",
+        "ca": "PEDRA",
+        "it": "PIETRA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_refill_already_upper": {
+        "en": "ALREADY",
+        "es": "YA HAS",
+        "ca": "JA HAS",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_1": {
+        "en": "You're ON FIRE!",
+        "es": "¡Te veo ON FIRE!",
+        "ca": "Et veig ON FIRE!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_2": {
+        "en": "On this level you'll learn how to use the life box.",
+        "es": "En este nivel aprenderás a usar las cajas de vida.",
+        "ca": "En aquest nivell aprendràs a usar les caixes de vida.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_3": {
+        "en": "With these you'll be able to save all the animal no-zombies and earn points. On the contrary, if you put a zombie inside, you'll lose as much lollipops as animals you had put inside...",
+        "es": "Con éstas podrás salvar a todos los animales no-zombies y ganar puntos. Por el contrario, si metes un zombie, perderás tantas piruletas como animales hubiese en el interior...",
+        "ca": "Amb aquestes podràs salvar tots els animals no-zombies i guanyar punts. Per altra banda, si hi poses un zombie, perdràs tantes piruletes com animals hi hagessin dins...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_btn_lifes_lower": {
+        "en": "RECHARGE",
+        "es": "COMPLETA",
+        "ca": "COMPLETA",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_4": {
+        "en": "To use the life box, touch on the board to plant it.",
+        "es": "Para usarlos, pulsa sobre el tablero para plantar la caja.",
+        "ca": "Per usar-los, pulsa sobre el taulell per plantar la caixa.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_5": {
+        "en": "To put an animal inside the box, select the shovel first.",
+        "es": "Para arrastrar a un animal dentro de la caja, selecciona primero la pala",
+        "ca": "Per arrossegar un animal dins de la caixa, selecciona la pala primer.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_6": {
+        "en": "Now try to drag the mole inside.",
+        "es": "Ahora trata de arrastrar el topo dentro de la caja.",
+        "ca": "Ara prova d'arrossegar el talp dins de la caixa.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_7": {
+        "en": "Perfect! Notice that, elapsed some time, the box will disapear saving all the animals inside.",
+        "es": "Perfecto! Piensa que, pasado un tiempo, la caja desaparecerá, salvando a todos los animales que haya dentro.",
+        "ca": "Perfecte! Pensa que, passat un temps, la caixa desapareixerà alvant a tots els animals que hi hagi dins.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifebox_tip_step_8": {
+        "en": "Here, take some boxes: gieve them a good use!",
+        "es": "Toma, te regalo algunas cajas: ¡aprovéchalas bien!",
+        "ca": "Mira, et regalo algunes caixes: aprofita-les bé!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "ghostwood_upper": {
+        "en": "Ghostwood",
+        "es": "Parque Nacional",
+        "ca": "Parc Nacional",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "cancel": {
+        "en": "Cancel",
+        "es": "Cancelar",
+        "ca": "Cancelar",
+        "it": "Cancella",
+        "ru": "Irina Shayk",
+        "ch": "いいえ"
+    },
+    "trap_rat_tip_step_1": {
+        "en": "Hi again! Today I have the dubious honor to introduce the rat to you, a plague for humanity.",
+        "es": "¡Hola de nuevo! Hoy tengo el dudoso honor de presentarte la rata, una plaga para la humanidad.",
+        "ca": "Ja hi tornem a ser! Avui tinc el dubtós honor de presentar-te la rata, una plaga per la humanitat.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_2": {
+        "en": "Before we start, take the trap that I give you.",
+        "es": "Antes de empezar, coge la trampa que te regalo.",
+        "ca": "Primer de tot, agafa la trampa que et regalo.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_8": {
+        "en": "A new rat showed up. Let's see what happens!",
+        "es": "Ha aparecido una nueva rata. ¡A ver que hace!",
+        "ca": "Ha aparegut una nova rata. A veure què fa!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_7": {
+        "en": "The use of the trap is the best way to avoid a plague of rats because you can remove it before it occurs and has 9 points of damage. But if you can not do it I'll show another way to eliminate them.",
+        "es": "Utilizar la trampa es la mejor manera para evitar una plaga de ratas porque puedes eliminarla antes de que se produzca y cuenta con 9 puntos de daño. Pero en el caso que no puedas hacerlo te enseñare otra forma de eliminarlas.",
+        "ca": "Fer servir la trampa és la millor manera per evitar una plaga de rates, ja que les pots eliminar abans que comencin a reproduïr-se i compta amb 9 punts de dany. En el cas que no puguis fer-ho, ara t'ensenyaré una altra manera d'eliminar-les.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_9": {
+        "en": "This poor beast can cause you a major problem because produces a plague that spreads across the screen",
+        "es": "Esta mala béstia te puede causar un importante problema por qué te produce una plaga que se extiende por toda la pantalla",
+        "ca": "Aquesta mala bèstia et pot causar un problema important, ja que et pot produïr una plaga que t'acabi omplint tota la pantalla",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_4": {
+        "en": "Look! Two rats showed up accompanied by a cat",
+        "es": "¡Mira! Han salido dos ratas con la intención de multiplicarse junto con un gato.",
+        "ca": "Mira! han sortit dues rates amb la intenció de multiplicar-se acompanyades per un gat de set vides!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifeBox_name": {
+        "en": "LIFE BOX",
+        "es": "CAJA DE VIDA",
+        "ca": "CAIXA DE VIDA",
+        "it": "BOX VITA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_3": {
+        "en": "Plant the trap on the center of the screen.",
+        "es": "Planta la trampa en el centro de la pantalla.",
+        "ca": "Planta la trampa al centre de la pantalla.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_6": {
+        "en": "Drag all the zombies on the trap!",
+        "es": "¡Arrastra todos los zombies sobre la trampa!",
+        "ca": "Arrossega tots els zombies sobre la trampa!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_5": {
+        "en": "Choose the shovel!",
+        "es": "¡Selecciona la pala!",
+        "ca": "Selecciona la pala!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "vibration": {
+        "en": "Vibration",
+        "es": "Vibración",
+        "ca": "Vibració",
+        "it": "Vibrazione",
+        "ru": "vibration[ru]",
+        "ch": "vibration[ch]"
+    },
+    "bank": {
+        "en": "BANK",
+        "es": "BANCO",
+        "ca": "BANC",
+        "it": "BANCA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "stinkBomb_desc": {
+        "en": "Throw a stink bomb and kill of its nasty smell everything that it has around.",
+        "es": "Tira una bomba fétida y mata de peste a todo lo que haya alrededor.",
+        "ca": "Tira una bomba fètida i mata de pudor a tot el que hi hagi al voltant.",
+        "it": "Lui spara bombetta puzzolente e uccide un puzzo tutto quello che hai intorno.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "facebook_desc": {
+        "en": "Share on Facebook and get some coins",
+        "es": "Comparte en Facebook y consigue monedas",
+        "ca": "Comparteix a Facebook i aconsegueix monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_refill_lower": {
+        "en": "PLAY THE SLOT",
+        "es": "LA MÁQUINA",
+        "ca": "LA MÀQUINA",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "CONNECTED": {
+        "en": "CONNECTED",
+        "es": "CONECTADO",
+        "ca": "CONNECTAT",
+        "it": "COLLEGATO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_tip_step_6": {
+        "en": "Here, I offer you some. Carefull, they are here!",
+        "es": "Toma, te regalo unos pocos. Prepárate, ¡ya estan aquí!",
+        "ca": "Té, te'n regalo alguns. Prepara't, ja són aquí!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_tip_step_5": {
+        "en": "Great! The rake will break when you rise your finger or elapsed some seconds.",
+        "es": "¡Genial! El rastrillo se romperá una vez levantes el dedo, o pasados unos segundos.",
+        "ca": "Genial! El rampí es trencarà quan aixequis el dit o passats uns segons.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "new_stages": {
+        "en": "New Stages",
+        "es": "Nuevos Escenarios",
+        "ca": "Nous Escenaris",
+        "it": "Nuovi Scenari",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_tip_step_2": {
+        "en": "I wanted to tell you that you'll find that sometimes there are objects falling down from the sky. This objects will be automatically selected when you touch them.",
+        "es": "Quería decirte que encontrarás que a veces caen objetos del cielo, los cuales quedarán automáticamente seleccionados al tocarlos.",
+        "ca": "Volia dir-te que a vegades et trobarà que cauen objectes del cel, aquests quedaràn seleccionats automàticament al tocar-los.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "earthquake_name": {
+        "en": "EARTHQUAKE",
+        "es": "TERREMOTO",
+        "ca": "TERRATRÈMOL",
+        "it": "TERREMOTO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_tip_step_1": {
+        "en": "Hi! How's the slaughter going?",
+        "es": "¡Buenas! ¿cómo va la escabechina?",
+        "ca": "Bones! Com va la matança?",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_tip_step_4": {
+        "en": "Try to get rid of this trio!",
+        "es": "¡Trata de cargarte a esos tres!",
+        "ca": "Mira de carregar-te aquests tres!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_tip_step_3": {
+        "en": "The rakes are a great weapon: swipe your finger across the screen to hit some zombies at once.",
+        "es": "Los rastrillos son una gran arma: arrastra el dedo por la pantalla para ir golpeando a los zombies.",
+        "ca": "Els rampins són una gran arma: arrossega el dit per la pantalla per anar picant als zombies.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "CREDITS": {
+        "en": "CREDITS",
+        "es": "CRÉDITOS",
+        "ca": "CRÈDITS",
+        "it": "CREDITI",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "sound": {
+        "en": "Sound",
+        "es": "Sonido",
+        "ca": "So",
+        "it": "Audio",
+        "ru": "sound[ru]",
+        "ch": "sound[ch]"
+    },
+    "prize_list": {
+        "en": "PRIZE LIST",
+        "es": "LISTA DE PREMIOS",
+        "ca": "LLISTA DE PREMIS",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_refill_already_lower": {
+        "en": "PLAYED",
+        "es": "JUEGADO",
+        "ca": "JUGAT",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "bonus_time_score": {
+        "en": "Time Bonus Score",
+        "es": "Bonus por Tiempo",
+        "ca": "Bonus per Temps",
+        "it": "Bonus per Tempo",
+        "ru": "bonus_time_score[ru]",
+        "ch": "bonus_time_score[ch]"
+    },
+    "lang": {
+        "en": "Language",
+        "es": "Idioma",
+        "ca": "Idioma",
+        "it": "Lingua",
+        "ru": "язык",
+        "ch": "言語"
+    },
+    "thunder_desc": {
+        "en": "Fry the toughest zombies launching a devastating beam.",
+        "es": "Fríe a los zombies más resistentes lanzando un rayo devastador.",
+        "ca": "Fregeix als zombies més resistents llançant un llamp devastador.",
+        "it": "Friggere gli zombie più difficili lanciando un raggio devastante.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "sack": {
+        "en": "SACK",
+        "es": "SACO",
+        "ca": "SAC",
+        "it": "SACCA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_deal_before": {
+        "en": "before",
+        "es": "antes",
+        "ca": "abans",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "extraLifes_desc": {
+        "en": "Extends for ever your quota of lives up to 7.",
+        "es": "Amplía para siempre tu cupo de vidas máximo hasta 7.",
+        "ca": "Amplia per sempre la quota de vides màximes fins a 7.",
+        "it": "Estende per sempre la quota vive fino a 7.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_deal": {
+        "en": "Big deal!",
+        "es": "Gran descuento!",
+        "ca": "Gran descompte!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "reset_progress_sure": {
+        "en": "Are you sure you want to restart your game?",
+        "es": "¿Estás seguro que quieres reiniciar tu partida?",
+        "ca": "Estàs segur que vols reiniciar la teva partida?",
+        "it": "Sei sicuro di volere riavviare il gioco?",
+        "ru": "Matrioska Russia Putin Pussy Riot?",
+        "ch": "reset_progress_sure[ch]"
+    },
+    "music": {
+        "en": "Music",
+        "es": "Música",
+        "ca": "Música",
+        "it": "Musica",
+        "ru": "music[ru]",
+        "ch": "music[ch]"
+    },
+    "trap_rat_tip_step_10": {
+        "en": "As you can see they have filled the entire screen. Get the stink bomb",
+        "es": "Como puedes ver te ha rellenado toda la pantalla. Coge la bomba fétida que te regalo",
+        "ca": "Com pots veure la rata t'ha oplert tota la pantalla! Agafa la bomba fètida que et regalo",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_11": {
+        "en": "Use the bomb!",
+        "es": "¡Usa la bomba!",
+        "ca": "Fes servir la bomba!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "trap_rat_tip_step_12": {
+        "en": "Okay, you've managed to eliminate the rat infestation. As you have done fantastically, have three traps as a gift!",
+        "es": "Muy bien, has conseguido eliminar la plaga de ratas. Como lo has hecho fantásticamente, ter regalo tres trampas!",
+        "ca": "Molt bé, has aconseguit eliminar la plaga de rates! Com que ho has fet molt bé et regalo tres trampes!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "twitter_desc": {
+        "en": "Tweet about Animal Zombies and get some coins",
+        "es": "Twitea sobre Animal Zombies y consigue monedas",
+        "ca": "Piula sobre Animal Zombies i aconsegueix monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "stinkBomb_name": {
+        "en": "STINK BOMB",
+        "es": "BOMBA FÉTIDA",
+        "ca": "BOMBA FÈTIDA",
+        "it": "BOMBETTA PUZZOLENTE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "thunder_name": {
+        "en": "THUNDER",
+        "es": "RELÁMPAGO",
+        "ca": "LLAMP",
+        "it": "FULMINE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rake_desc": {
+        "en": "Rip out and kill all the zombies the rake touches with one movement.",
+        "es": "Desgarra y mata a todos los zombies que toques con el rastillo de un solo movimiento.",
+        "ca": "Esquinça i mata a tots els zombies que toguis amb el rampí d'un sol moviment.",
+        "it": "Rip fuori e uccidere tutti gli zombie rastillo toccare con un solo movimento.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "resume": {
+        "en": "Resume",
+        "es": "Continuar",
+        "ca": "Continuar",
+        "it": "Continua",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "buy_weapon_tip_step_3": {
+        "en": "It's as simple as touching on the life box in the toolbar",
+        "es": "Es tant simple como pulsar sobre la caja de vida en la barra de erramientas",
+        "ca": "És tant senzill com pulsar sobre la Caixa de vida a la barra d'eines",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "buy_weapon_tip_step_4": {
+        "en": "Very well, now you know how to recharge a weapon",
+        "es": "Muy bien, ahora ya sabes como comprar recargas de armas",
+        "ca": "Molt bé, ara ja saps com comprar recàrregues d'armes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "buy_weapon_tip_step_1": {
+        "en": "Hi! I hope you're enjoying your personal crusade against the evil zombies",
+        "es": "¡Hola! Espero que te lo etes pasando en grande luchando contra los malvados zombies",
+        "ca": "Hola! Espero que t'ho estiguis passant molt bé lluitant contra els malvats zombies",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "buy_weapon_tip_step_2": {
+        "en": "As you can see, you don't have more life boxes, but don't worry, now I'm gonna teach you how to get more from inside the gameplay",
+        "es": "Como puedes ver, no tienes mas cajas de vida, pero no te perocupes, ahora te ensenyaré como consegir más desde el mismo juego",
+        "ca": "Com pots veure, no et queden Caixes de vida, però no pateixis, ara t'ensenyaré com aconseguir-ne més des del mateix joc",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "iceCube_desc": {
+        "en": "Freeze for a while the zombies until the ice melts.",
+        "es": "Congela durante un tiempo a los zombies hasta que el hielo se derrite.",
+        "ca": "Congela durant un temps als zombies fins que el gel es fon.",
+        "it": "Fermo per un po'gli zombie fino a quando il ghiaccio si scioglie.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "county_fair_lower": {
+        "en": "FAIR",
+        "es": "DEL CONDADO",
+        "ca": "DEL COMTAT",
+        "it": "DELLA CONTEA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "OPTIONS": {
+        "en": "OPTIONS",
+        "es": "OPCIONES",
+        "ca": "OPCIONS",
+        "it": "OPZIONI",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_continue": {
+        "en": "CONTINUE",
+        "es": "CONTINUA",
+        "ca": "CONTINUA",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_new_stage": {
+        "en": "New stage unblocked!",
+        "es": "Nuevo stage desbloqueado!",
+        "ca": "Nou stage desbloquejat!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "score": {
+        "en": "Score",
+        "es": "Puntos",
+        "ca": "Punts",
+        "it": "Punti",
+        "ru": "score[ru]",
+        "ch": "スコアー"
+    },
+    "story_1_6": {
+        "en": "After a while Cherry bumped into a huge pig. The deceased pig stared at her with a weird look and, after a repulsive noise, exploded, scattering filth everywhere!",
+        "es": "Al cabo de un rato, Cherry se encontró a un cerdo enorme. El difunto cerdo la miró de forma extraña y tras un ruido repugnante, ¡explotó dejándolo todo lleno de porquería!",
+        "ca": "Al cap d'una estona, la Cherry es va trobar un porc enorme. El difunt porc la va mirar de manera estranya i, després d'un soroll repugnant, va explotar, deixan't-ho tot ple de porqueria!",
+        "it": "Dopo un pò, Cherry trovò un maiale enorme. Il defunto maiale la guardò in modo strano e dopo un rumore disgustoso, esplose lasciando tutto una schifezza!",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_1_7": {
+        "en": "Cats and fishes aren't usually much compatible, but this two had matched an alliance in their hunt for meaty innocent puppies...",
+        "es": "Los gatos y los peces de colores no suelen ser muy compatibles, pero estos dos parecían haber formado una alianza en su búsqueda de perritos jugosos e inocentes...",
+        "ca": "Els gats i els peixos de colors no solen ser molt compatibles, però aquests dos semblaven haver fet una aliança en la seva recerca de gossets suculents i innocents...",
+        "it": "I gatti e i pesci di colori non sono compatibili, però questi sembravano avere creato una aleanza in cerca di nuovi cagnolini innocenti...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "languages": [
+        "en",
+        "es",
+        "ca",
+        "it"
+    ],
+    "story_1_4": {
+        "en": "Not only bunnies were reviving, but also doggies! She saw the old Cookies, Miss Morris' dog, rising out from the grave, full of dirt, staring in the air...",
+        "es": "Ya no solo revivían los conejitos, ¡ahora también había perros! Vio al viejo Cookies, el perro de la señora Morris, salir de su tumba, lleno de tierra y con la mirada perdida...",
+        "ca": "Ja no sols revivien els conillets, ara també hi havia gossos! Va veure al vell Cookies, el gos de la senyora Morris, sortir de la seva tomba, ple de sorra i amb la mirada perduda...",
+        "it": "Adesso non solo rinascevano i coniglietti. Adesso anche i cani! Vidde il veccio Cookies, il cane della signora Morris, uscire dalla sua tomba pieno di terra con lo sguardo perso...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_1_5": {
+        "en": "Cherry stopped to rest under a tree when she saw, clinging on a branch, the filthiest parrot she had ever seen...",
+        "es": "Cherry paró un rato a descansar bajo un árbol cuando vio que, posado sobre sus ramas, estaba el loro más asqueroso que había visto jamás...",
+        "ca": "La Cherry va parar a descansar sota d'un arbre quan va veure que posat sobre les seves branques, hi havia el lloro más fastigós que mai havia vist...",
+        "it": "Cherri si fermò per riposarsi sotto un albero quando vidde su uno dei rami, il papagallo più schifoso che avesse mai visto...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_1_2": {
+        "en": "That afternoon Cherry was paying a visit to Darwin, her dead bunny. But she was shocked to see that he had risen from the grave and was trying to eat Mr. Cooper, her new puppy...",
+        "es": "Menuda sorpresa se llevó aquella tarde Cherry cuando, visitando la tumba de su conejito Darwin, éste salió de su tumba e intentó comerse a su nuevo perrito Mr. Cooper...",
+        "ca": "Quina sorpresa es va emportar aquella tarda la Cherry quan, visitant la tomba del seu conillet Darwin, aquest va sortir de la seva tomba i va intentar menjar-se al seu nou gosset Mr. Cooper...",
+        "it": "Che sorpresa per Cherry quando quel pomeriggio andò a visitare la tomba del suo coniglietto Darwin, e questo provò a mangiarsi il suo nuovo cagnolino Mr. Cooper...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_1_3": {
+        "en": "Cherry squashed all the zombies mercilessly, carried away by enthusiasm, until she left a poor mole unconscious. From that moment on she should be more careful...",
+        "es": "Cherry aplastaba a todos los zombies sin piedad hasta que, presa del entusiasmo, dejó inconsciente a un pobre topo. A partir de ahora debería tener más cuidado...",
+        "ca": "La Cherry aixafava a tots el zombies sense pietat fins que, presa de l'entusiasme, va deixar inconscient a un pobre talp. A partir d'ara hauria d'anar més amb compte...",
+        "it": "Cherry schiacciava tutti gli zombie sensa pietà, fin che presa dall'entusiasmo, lasciò inconscia una povera talpa. Da quel momento dovrebbe stare più attenta...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deaths": {
+        "en": "Deaths",
+        "es": "Muertes",
+        "ca": "Morts",
+        "it": "Morti",
+        "ru": "deaths[ru]",
+        "ch": "死亡"
+    },
+    "story_1_1": {
+        "en": "She had made it! No one was going to eat Mr. Cooper for the time being, but without her knowing, the Animal Zombies were escaping from the cemetery, towards civilization...",
+        "es": "¡Lo había logrado! ¡Nadie se comería a Mr. Cooper por el momento! Pero, sin saberlo, los Animal Zombies estaban escapando del cementerio rumbo a la civilización...",
+        "ca": "Ho havia aconseguit! Ningú es menjaria al Mr. Cooper de moment! Però, sense saber-ho, els Animal Zombies estaven escapant del cementiri dirigint-se a la civilització...",
+        "it": "Ci era riuscita! Nessuno potrebbe mangiarsi Berry per il momento! Però senza saperlo, gli Animal Zombies stava fuggendo dal cimitero verso la civiltà...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_1": {
+        "en": "After all, that year's fair didn't go so bad: Cherry won the prize for the best roasted turkey and all those filthy Animal Zombies seemed to have fled away, but... For how long?",
+        "es": "Al final la feria de aquel año no fue tan mal: Cherry ganó el premio al mejor pavo asado y todos aquellos horripilantes Animal Zombies parecían haber huido. Pero... ¿Para siempre?",
+        "ca": "Finalment la fira d'aquell any no va anar tan malament: la Cherry va guanyar el premi al millor gall d'indi rostit i tots aquells horribles Animal Zombies semblaven haver fugit. Però... Per sempre?",
+        "it": "Alla fine la fiera di quel anno non era andata così male. Cherry vinse il premio al migliore tacchino arrostito e tutti quello orripilanti Animal Zombies sembravano di essere fuggiti. Però... Per sempre?",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "reset": {
+        "en": "Reset",
+        "es": "Reiniciar",
+        "ca": "Reiniciar",
+        "it": "Riavviare",
+        "ru": "reset[ru]",
+        "ch": "reset[ch]"
+    },
+    "story_2_2": {
+        "en": "The Animal Zombies escaped the cemetery! Cherry was at the county fair, participating in the 'Little Miss Farmer' contest, when the vermin attacked! There were young beauty queens panicking out everywhere... Cherry would need to be careful with the shovel to avoid hurting them...",
+        "es": "¡Los Animal Zombies habían escapado del cementerio! Cherry estaba en la feria del condado participando en el concurso de 'Little Miss Farmer', ¡cuando las pequeñas sabandijas atacaron! Todo estaba lleno de pequeñas reinas de la belleza histéricas y Cherry tendría que usar la pala con cuidado para no hacerles daño...",
+        "ca": "Els Animal Zombies havien escapat del cementiri! La Cherry estava a la fira del comtat participant en el concurs de 'Little Miss Farmer' quan les petites bestioles començaren a atacar! Tot estava ple de petites reines de la bellesa histèriques i la Cherry hauria d'utilitzar la pala amb cura per no fer-les mal...",
+        "it": "Gli Animal Zombies era scappati dal cimitero! Cherry si trovava alla fiera della contea partecipando al concorso di bellezza di 'Little Miss Farmer' quando i piccoli parassati attaccarono! Era pieno di piccole regginette di bellezza isteriche e Cherry doveva usare la pala con molta attenzione per non farle del male...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pet_cemetery_lower": {
+        "en": "CEMETERY",
+        "es": "DE ANIMALES",
+        "ca": "D'ANIMALS",
+        "it": "DI MASCOTTE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_5": {
+        "en": "That poor duck was hunted that morning at the hunting tournament. Now Cherry was facing it at the cheese contest tent, staring at her in a sinister way...",
+        "es": "El pobre pato había sido cazado esa misma mañana en el torneo de caza. Cherry se lo encontró en la carpa del concurso de quesos mirándola de forma inquietante...",
+        "ca": "El pobre ànec havia estat caçat aquell mateix matí en el torneig de caça. La Cherry se'l va trobar a la carpa del concurs de formatges mirant-la de forma inquietant...",
+        "it": "La povera anatra l'avevano cacciato la stessa mattina al torneo di caccia. Cherry lo trovò sotto la tenda del concorso di formaggi guardandola in una maniera inquietante...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_6": {
+        "en": "It seemed its destiny was to end up on a plate served with potatoes, covered with blueberry sauce and a lemon shoved up in his butt. But now it was back to life and willing to eat a puppy...",
+        "es": "Parecía que su destino era acabar en una fuente rodeado de patatas, bañado en salsa de arándanos y con un limón metido por el trasero, pero ahora, sin embargo, volvía a estar vivo y le apetecía mucho comerse a un perrito...",
+        "ca": "Semblava que el seu destí era acabar en una font envoltat de patates, banyat en salsa de nabius i amb una llimona ficada pel culet, però ara tornava a ser viu i li venia molt de gust menjar-se a un gosset...",
+        "it": "Sembrava che il suo destino era finire in una teglia circondato da patate, bagnato da una salsa ai mirtilli e con un limone nel didietro, però adesso, era rinato e aveva tanta voglia di mangiarsi un cagnolino...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_3": {
+        "en": "Cherry found a small rake on the floor. She could slide it to squash several Animal Zombies at once! What a shame it broke so fast...",
+        "es": "Cherry encontró un pequeño rastrillo en el suelo, con el que poder destrozar varios Animal Zombies ¡a la vez! Era una pena que se rompiese tan rápido...",
+        "ca": "La Cherry va trobar un petit rastrell en el terra, amb el que poder destrossar varis Animal Zombies alhora! Era una llàstima que es trenqués tan ràpid...",
+        "it": "Cherry trovà un piccolo rastrello a terra, con il quale poter distruggere diversi Animal Zombies in contemporanea! Era un peccato che si ruppe così velocemente...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_4": {
+        "en": "Cherry found Mr. Cooper at the dog contest, surrounded by a pack of hungry piranha chihuahua zombies. Someone had to do something to save the puppy from those little monsters...",
+        "es": "Cherry se encontró a Mr. Cooper en el concurso canino. Estaba rodeado por una jauría de hambrientos chihuahuas-piraña zombies. ¡Alguien tenía que salvarlo de aquellos pequeños monstruos...",
+        "ca": "La Cherry es va trobar al Mr. Cooper en el concurs caní. Estava envoltat d'un grup de famèlics chihuahues-piranya zombis. Algú havia de salvar-lo d'aquells petits monstres...",
+        "it": "Cherry si incontrò con Berry al concorso canino. Era cincordato da un branco di cani Chihuahuas-piranhe afamati e qualcuno doveva salvarlo da quei piccoli mostrui...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_8": {
+        "en": "Cherry had trained all the year to win all the important trophies at the fair and now those filthy critters were destroying everything, even the cherry pie she presented to the cake contest. That was the last straw; they were all going to pay!",
+        "es": "Cherry se había preparado todo el año para ganar todos los premios importantes de la feria, y ahora aquellos bichos lo habían destrozado todo, incluso la tarta de cerezas que presentó en el concurso de pasteles. Aquella era la gota que colmaba el vaso y ¡se lo iban a pagar todos!",
+        "ca": "La Cherry s'havia preparat tot l'any per poder guanyar tots els premis importants de la fira, i ara aquells monstres ho havien destruït tot, incloent-hi el pastís de cireres que va presentar en el concurs de pastissos. Aquella va ser la gota que fa vessar el got i anaven a pagar-ho tots!",
+        "it": "Cherry si era preparato durante tutto l'anno per vincere i premi più importanti della fiera e adesso quei animali avevano distrutto tutto, inclusa la torta alla ciliegia che presento alla gara di torte. Quello era la goccia che traboccava il bicchiere e lo pagherebbero tutti!",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_btn_lifes_upper": {
+        "en": "COMPLETE",
+        "es": "RECARGA",
+        "ca": "RECÀRREGA",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_2_7": {
+        "en": "In the past it might have been a ferret, a guinea pig or even a chinchilla. Now it was an unidentifiable monster, and that cage seemed tough...",
+        "es": "Antaño quizás fue un hurón o una cobaya, puede que incluso una chinchilla. Ahora era un monstruo indescriptible y esa jaula parecía ser de las buenas...",
+        "ca": "Potser alguna vegada havia estat una fura o un conillet d'índies, potser fins i tot una xinxilla. Ara era un monstre indescriptible i aquella gàbia semblava que era de les bones...",
+        "it": "Una volta forse fu un furetto, un porcellino d'india, addirittura una cincillà. Adesso era un mostruo indiscrivibile e quella gabbia sembrava delle buone...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_1": {
+        "en": "On this level you'll meet with the pigs",
+        "es": "En este nivel conocerás a los cerdos",
+        "ca": "En aquest nivell coneixeràs als porcs",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_no_coins_enought": {
+        "en": "No coins enought!",
+        "es": "No tienes suficientes!",
+        "ca": "No en tens suficients!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_3": {
+        "en": "Amazing! When exploding and killing so much zombies arround then, you got a combo!",
+        "es": "¡Increíble! ¡Al petar y matar a tantos zombies a la vez, has conseguido un combo!",
+        "ca": "Increïble! Al petar i matar tants zombies a la vegada, has aconseguit un combo!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_2": {
+        "en": "Be carefull, because with time they end up exploding and killing the animals arround!",
+        "es": "Cuidado, porque con el tiempo acaban explotando y matando a los animales alrededor!",
+        "ca": "Vigila, perquè amb el temps acaben explotant i maten als animals del voltant!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "alert": {
+        "en": "Alert",
+        "es": "Atención",
+        "ca": "Atenció",
+        "it": "Attenzione",
+        "ru": "alert[ru]",
+        "ch": "注意"
+    },
+    "bag": {
+        "en": "BAG",
+        "es": "BOLSA",
+        "ca": "BOSSA",
+        "it": "BORSA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_slot_win": {
+        "en": "You win!",
+        "es": "Has ganado!",
+        "ca": "Has guanyat!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_5": {
+        "en": "In this cases, you have to get rid of the pig before it explodes!",
+        "es": "En estos casos, ¡deberás eliminar al cerdo antes de que explote!",
+        "ca": "En aquests casos, hauràs d'eliminar al porc abans no exploti!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "menu": {
+        "en": "Menu",
+        "es": "Menú",
+        "ca": "Menú",
+        "it": "Menu",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_4": {
+        "en": "But... What happens when it's surrouded by moles?",
+        "es": "Pero... ¿Qué pasa cuando un cerdo está rodeado de topos?",
+        "ca": "Però... Què passa quan un porc està envoltat de talps?",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "CONNECT": {
+        "en": "CONNECT",
+        "es": "CONECTAR",
+        "ca": "CONNECTAR",
+        "it": "COLLEGARE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_7": {
+        "en": "Now get rid of the pig!",
+        "es": "Ahora ¡elimina al cerdo!",
+        "ca": "Ara elimina el porc!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_6": {
+        "en": "You couldn't? Thats because the pic is shovel proof, get the rake to get rid of it!",
+        "es": "¿No has podido? Eso se debe a que el cerdo es resistente a la pala, así que pilla este rastrillo",
+        "ca": "No has pogut? Això és a causa que el porc és resistenta a la pala, així que agafa el rampí",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pig_tip_step_8": {
+        "en": "Perfect, you saved the moles! Here, take a couple of rakes and be aware, you may need more...",
+        "es": "Perfecto, ¡has salvado los topos! Toma un par de rastrillos y sigue atento, puede que necesites más...",
+        "ca": "Perfecte, has salvat als talps! Et dono un parell de rampins, i segueix atent, pot ser que en necessitis més...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_1_9": {
+        "en": "Cherry was getting good at it. She was nearly out of the cemetery, but before that she had to face the last big attack of the Animal Zombies!",
+        "es": "Cherry le estaba pillando el truco y ya casi estaba en la salida del cementerio, ¡pero antes tendría que enfrentarse al último gran ataque de los Animal Zombies!",
+        "ca": "La Cherry li estava agafant el truc i ja gairebé estava a la sortida del cementiri, però abans hauria d'enfrontar-se a l'últim gran atac dels Animal Zombies!",
+        "it": "Cherry aveva capito come funzionava ed era quasi arrivata all'uscita del cimitero, però prima doveva scontrarsi all'ultimo grande attacco degli Animal Zombies!",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "story_1_8": {
+        "en": "There she was... Her friend Betty’s turtle, ran over by a mower last summer. Now it seemed she was back for vengeance...",
+        "es": "Allí estaba... Aquella era la tortuga de su amiga Betty. El cortacésped la atropelló el verano pasado y ahora parecía haber vuelto para vengarse...",
+        "ca": "Allà estava... Aquella era la tortuga de la seva amiga Betty. La tallagespa la va atropellar l'estiu passat i ara semblava haver tornat per venjar-se...",
+        "it": "Là si trovava... Quella era la tartaruga della sua amica Betty. Il tagliaerba la investÌ la scorsa estate e adesso sembrava di essere tornata per vendicarsi...",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "ghostwood_lower": {
+        "en": "NATIONAL PARK",
+        "es": "DE GHOSTWOOD",
+        "ca": "DE GHOSTWOOD",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "fish_tip_step_5": {
+        "en": "Try to kill the fish with the shovel!",
+        "es": "¡Intenta matar al pez con la pala!",
+        "ca": "Intenta matar al peix amb la pala!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "fish_tip_step_4": {
+        "en": "Now take the shovel",
+        "es": "Ahora coge la pala",
+        "ca": "Ara agafa la pala",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "stinkbomb_tip_step_1": {
+        "en": "Oh yeah! I'm gonna take a shower! Oh... Hey! I didn't see you... Well now that I see you, I'll take the chance to introduce you to the stink bomb. Get it!",
+        "es": "¡Sí, sí, sí, el mas guapo está aquí! Ah! Hola, no te habia visto. Ahora que nos encontramos aprovecharé para explicarte como funciona la bomba fétida. ¡Cogela!",
+        "ca": "Sí, sí, sí, el més guapo ja és aquí! Ai! Hola, no t'havia vist. Ara que ens trobem aprofitaré per explicar-te com funciona la bomba fètida. Agafa-la!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "language": {
+        "en": "English",
+        "es": "Español",
+        "ca": "Català",
+        "it": "Italiano",
+        "ru": "Russian",
+        "ch": "中国語"
+    },
+    "stinkbomb_tip_step_2": {
+        "en": "Look how much rabbits! Throw a bomb at the center zombie.",
+        "es": "¡Mira cuantos conejos! Tira la bomba sobre el que esté más en el centro.",
+        "ca": "Mira quants conills! Tira la bomba sobre la que estigui més al centre.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "cage_tip_step_1": {
+        "en": "Hi! I know you are tired of me, but you also know that you need me. Today I'll introduce you the cage.",
+        "es": "¡Hola! se que soy un pesado, pero sabes que me necesitas. Hoy te presento a la gábia.",
+        "ca": "Hola! Sóc un pesat, ho sé, però amb la gàbia necessitaras la meva fantàstica ajuda.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "fish_tip_step_1": {
+        "en": "Hi! You called me? No? Well, anyway I introduce you the fish, the waterproof zombie.",
+        "es": "¡Hola! Me llamabas? No? Bueno, de todas formas te presento el pez, el zombie resistente al agua.",
+        "ca": "Hola! M'havies cridat? No? Bé, igualment t'he de presentar el peix, el zombie resistent a l'aigua.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "stinkbomb_tip_step_3": {
+        "en": "Well done! As you could see the stink bomb it's a powerfull weapon able to affect an array of 3x3. As I like you, I give you a bomb",
+        "es": "¡Bien hecho! Como has podido ver la bomba fétida és un arma potente capaz de efectar un tamaño de 3x3 del tablero. Como me caes bien, te regalo una bomba.",
+        "ca": "Ben fet! Com has pogut veure la bomba fètida és una arma potent capaç d'efectar un tamany de 3x3 del taulell. Com que em caus bé, et regalo una bomba.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "cage_tip_step_3": {
+        "en": "Very well, now you already know how to kill the cages. You mostly relay on your hability with the shovel.",
+        "es": "Muy bien, ahora ya sabes como matar a las gábias. En la mayor parte dependes de tu habilidad con la pala.",
+        "ca": "Molt bé, ara ja saps com matar les gàbies. Sobretot depens de la teva habilitat amb la pala.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "fish_tip_step_3": {
+        "en": "Plant the hose as you already know and look at the fish, you'll see that nothing happens.",
+        "es": "Planta la manguera como ya sabes y mira como no le pasa nada al pez con el agua de esta.",
+        "ca": "Planta la manguera com saps fer i observa que no li passa res al peix amb l'aigua de la manguera",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "cage_tip_step_2": {
+        "en": "The cages are more resistent than other zombies, having three points of life. The fastest way to kill them is for you to hit them directly with the shovel.",
+        "es": "Las gábias son más resistentes que otros zombies teniendo tres puntos de vida. La forma más cómoda de eliminarlas es con tres golpes rápidos con la pala.",
+        "ca": "Les gàbies són més resistens que altres zombies ja que tenen tres punts de vida. La forma més ràpida per eliminar-les és picar-les 3 cops amb la pala.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "fish_tip_step_2": {
+        "en": "Get the hose and I'll show you!",
+        "es": "¡Coge la manguera, te lo demostraré!",
+        "ca": "Agafa la manguera, i t'ho demostraré!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "combo_tip_step_3": {
+        "en": "Kill very fast the three zombies on screen and get a combo!",
+        "es": "¡Mata bien ràpido a los tres zombies que salen en pantalla y consigue el combo!",
+        "ca": "Mata els tres zombies que surten a la pantalla ben ràpid i aconsegueix el combo!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "combo_tip_step_2": {
+        "en": "Be ready, now it's the time you proof your speed with the shovel in order to get more points with the same ammount of deaths",
+        "es": "Preparate, ahora tendras que demostrar tu valia i rapidez con la pala para poder conseguir más puntuación con el mismo número de muertes",
+        "ca": "Prepara't, ara hauràs de demostrar la teva habilitat i rapidesa amb la pala per poder aconseguir més puntuació amb el mateix número de morts",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "combo_tip_step_4": {
+        "en": "Very well! You made a triple combo! Let's see if you can make it on a real game and raise your final puntuation",
+        "es": "¡Muy bien! ¡Has conseguido un combo triple! A ver si lo consigues durante la partida y aumentas tu puntuación final",
+        "ca": "Molt bé! Has aconseguit un combo triple! a veure si ho aconsegueixes durant la partida i augmentes la teva puntuació final",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "safe_desc": {
+        "en": "Buy a safe full of coins",
+        "es": "Compra una caja fuerte llena de monedas",
+        "ca": "Compra una caixa forta plena de monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "combo_tip_step_1": {
+        "en": "Hi! After a feew games it's time I introduce you to the world of combos",
+        "es": "¡Hola! Después de algunas partidas va siendo hora de que conozcas los combos.",
+        "ca": "Hola! Després d'algunes partides ja va sent hora que coneguis els Combos.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "remind_later": {
+        "en": "Remind me later",
+        "es": "Recordar más tarde",
+        "ca": "Recordar més tard",
+        "it": "Ricordamelo più tardi",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_btn_lifes_fb": {
+        "en": "SHARE",
+        "es": "COMPARTE",
+        "ca": "COMPARTEIX",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "tortoise_stone_tip_step_2": {
+        "en": "You'll come to hate the tortoises: to get rid of them you'll have to hit them 2 times!",
+        "es": "Llegarás a odiar a las tortugas: ¡para eliminarlas deberás golpearlas 2 veces!",
+        "ca": "Arribaràs a odiar a les tortugues: per eliminar-les hauràs de picar-les 2 vegades!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "tortoise_stone_tip_step_1": {
+        "en": "Hey! On this level we'll meet the tortoises.",
+        "es": "¡Ey! En este nivel nos encontraremos con las tortugas.",
+        "ca": "Ei! En aquest nivell ens trobarem amb les tortugues.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "tortoise_stone_tip_step_4": {
+        "en": "The stones have a double function: when pressing on a zombie you'll make up to 2 points of damage, but also stays on the board blocking a position for some seconds.",
+        "es": "Las piedras tienen una doble función: al pulsar sobre un zombie le harás hasta 2 de daño, pero también sirve para ocupar espacios en el tablero durante unos segundos.",
+        "ca": "Les pedres tenen una doble funció: al picar sobre un zombie li faràs fins a 2 puns de dany, però també serveix per ocupar espais del taulell durant uns segons.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "new_record": {
+        "en": "New Record!",
+        "es": "¡Nuevo Récord!",
+        "ca": "Nou Record!",
+        "it": "Nuovo record!",
+        "ru": "new_record[ru]",
+        "ch": "new_record[ch]"
+    },
+    "tortoise_stone_tip_step_3": {
+        "en": "At times of stress the tortoises will put you under more pression, but everyting has a solution...",
+        "es": "En ciertos momentos de estrés las tortugas te pondrán en más de un compromiso, pero todo tiene solución...",
+        "ca": "En certs moment d'estrès les tortugues et posaran en més d'un compromís, però tot té solució...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "tortoise_stone_tip_step_6": {
+        "en": "Perfect! I hope that the stone and you become great friends, the stones can become fine pets.",
+        "es": "¡Perfecto! Espero que la piedra y tú seáis grandes amigos, las piedras pueden llegar a ser buenas mascotas.",
+        "ca": "Perfecte! Espero que la pedra i tu sigueu grans amics, les pedres poden arribar a ser bones mascotes.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "game_over": {
+        "en": "GAME OVER",
+        "es": "FIN DE LA PARTIDA",
+        "ca": "FI DE LA PARTIDA",
+        "it": "FINE GIOCO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "tortoise_stone_tip_step_5": {
+        "en": "Come on, smash all this tortoises!",
+        "es": "Vamos, ¡elimina a todas estas tortugas!",
+        "ca": "Vinga, elimina totes aquestes tortugues!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "sack_desc": {
+        "en": "Buy a sack full of coins",
+        "es": "Compra un saco lleno de monedas",
+        "ca": "Compra un sac ple de monedes",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathBox_desc": {
+        "en": "Drag the zombies inside the death box and get better combos.",
+        "es": "Arrastra a los zombies dentro de la caja de muerte y consigue mejores combos.",
+        "ca": "Arrossega als zombies dins la caixa de mort i aconsegueix millors combos.",
+        "it": "Trascinare gli zombie all'interno del box morte e ottenere combo migliori.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "restart": {
+        "en": "Restart",
+        "es": "Reiniciar",
+        "ca": "Reiniciar",
+        "it": "Riavviare",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "cherrys_neighborhood_lower": {
+        "en": "NEIGHBORHOOD",
+        "es": "DE CHERRY",
+        "ca": "DE LA CHERRY",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "stone_desc": {
+        "en": "Prevent the zombies out of the ground or bury them again.",
+        "es": "Impide que los zombies salgan de la tierra o los entierra nuevamente.",
+        "ca": "Impedeix que els zombies surtin de terra o els torna a enterrar.",
+        "it": "Prevenire gli zombie fuori terra o seppellirli di nuovo.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "shop": {
+        "en": "SHOP",
+        "es": "TIENDA",
+        "ca": "BOTIGA",
+        "it": "NEGOZIO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "last": {
+        "en": "LAST",
+        "es": "ÚLTIMA",
+        "ca": "RONDA",
+        "it": "ULTIMA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "choose_level_upper": {
+        "en": "CHOOSE",
+        "es": "ELIGE",
+        "ca": "ESCULL",
+        "it": "SELEZIONA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "twitter": {
+        "en": "TWITTER",
+        "es": "TWITTER",
+        "ca": "TWITTER",
+        "it": "TWITTER",
+        "ru": "TWITTER",
+        "ch": "TWITTER"
+    },
+    "level": {
+        "en": "Level ",
+        "es": "Nivel ",
+        "ca": "Nivell ",
+        "it": "Livello ",
+        "ru": "level[ru] ",
+        "ch": "レベル "
+    },
+    "facebook": {
+        "en": "FACEBOOK",
+        "es": "FACEBOOK",
+        "ca": "FACEBOOK",
+        "it": "FACEBOOK",
+        "ru": "FACEBOOK",
+        "ch": "FACEBOOK"
+    },
+    "iceCube_name": {
+        "en": "ICE",
+        "es": "HIELO",
+        "ca": "GEL",
+        "it": "GHIACCIO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "max_score": {
+        "en": "Best Score",
+        "es": "Mejor Puntuación",
+        "ca": "Millor Puntuació",
+        "it": "Miglior Punteggio",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "earthquake_desc": {
+        "en": "It causes a great earthquake that will launch all the zombies into the air and they will die when falling.",
+        "es": "Provoca un gran terremoto que lanzará a todos los zombies por los aires y se moriran al caer.",
+        "ca": "Provoca un gran terratrèmol que llançarà als zombies pels aires i es moriran al caure.",
+        "it": "Essa provoca un grande terremoto lancerà tutti gli zombie in aria e moriranno a cadere.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "skunk_tip_step_3": {
+        "en": "Look! The skunk is about to attack!",
+        "es": "¡Mira! ¡La mofeta está apunto de atacar!",
+        "ca": "Mira! La mofeta està a punt d'atacar!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "skunk_tip_step_2": {
+        "en": "The skunk is a special animal. It is able to remove 3 points of life within a 5x5 radius around. Attacks everyone without looking if they are zombies or not.",
+        "es": "La mofeta es un animal especial. Es capaz de quitar 3 puntos de vida en un rádio de 5x5 a su alrededor. Ataca a todos, sin mirar si són zombies o no.",
+        "ca": "La mofeta és un animal especial, i és que és capaç d'aplicar 3 punts de dany a una quadrícula de 5x5 al seu voltant. Ataca a tots els animals que hi hagi en el seu radi d'acció.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "skunk_tip_step_5": {
+        "en": "Finally you just have to know that the skunk has a single point of life and that can be killed with any weapon.",
+        "es": "Por último solo tienes que saber que la mofeta tiene un solo punto de vida y que la puedes matar con cualquier arma.",
+        "ca": "Per últim només has de saber que la mofeta només disposa d'un punt de vida i que la pots matar amb qualsevol arma.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathBox_name": {
+        "en": "DEATH BOX",
+        "es": "CAJA DE MUERTE",
+        "ca": "CAIXA DE MORT",
+        "it": "BOX MORTE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "skunk_tip_step_4": {
+        "en": "Now you've seen what happens. Note that if there are any non-zombie in the range of the skunk, this will die and you'll lose a life.",
+        "es": "Ahora ya has visto que pasa. Ten en cuenta que si hay algun no-zombie en el radio de acción de la mofeta, este morirá y te restará una vida.",
+        "ca": "Ara ja has vist el que passa. Tingues en compte que si hi ha algun personatge bo al radi d'acció de la mofeta, aquest també morirà i et restarà punts!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "mole_tip_step_4": {
+        "en": "Be aware, they are back. And remember not to hit the moles!",
+        "es": "Prepárate, que vuelven. Y recuerda que no debes golpear a los topos!",
+        "ca": "Prepara't, que tornen. I recorda que no has de picar els talps",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "mole_tip_step_3": {
+        "en": "When you lose a life, somtimes will fall lollipops that wil help healing you.",
+        "es": "Cuando pierdas vidas, a veces, caeran piruletas que te curarán al tocarlas.",
+        "ca": "Quan perdis una vida, a vegades, cauràn piruletes que et curaràn al tocar-les.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "lifeBox_desc": {
+        "en": "Place the innocent ones in the life box and get extra points.",
+        "es": "Mete los seres inocentes en la caja de vida y consigue puntos extra.",
+        "ca": "Posa les criatures inocents a la caixa de vida i aconsegueix punts extra.",
+        "it": "Riproduce le persone innocenti che box vita e ottenere punti extra.",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "mole_tip_step_2": {
+        "en": "When you hit it you lose a life! It's not a zombie.",
+        "es": "¡Al golperarlo pierdes una vida! Puesto que no es un zombie.",
+        "ca": "Al picar-lo perds una vida! Ja que no és un zombie.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "mole_tip_step_1": {
+        "en": "You'll have to distinguish the moles from the animal zombies. Hit the mole now...",
+        "es": "Tendrás que diferenciar a los topos de los animales zombies. Golpea a este topo ahora...",
+        "ca": "Hauràs de diferenciar als talps dels animals zombies. Pica al talp ara...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "skunk_tip_step_1": {
+        "en": "How is going zombie killer? Today I'm gonna introduce you to a very much lethal zombie. The skunk.",
+        "es": "Como va la vida matando zombies? Hoy te voy a presenstar un animal de lo más mortífero. La mofeta.",
+        "ca": "Com va la vida matant zombies? Avui et presentaré una animal d'allò més mortífer. La mofeta.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "histeria_tip_step_2": {
+        "en": "No!! It was a joke! How could you... As you can see, Mss. Queenie is like the mole, she's not a zombie and you may not hit her. Now, prepare yourself, the zombies are comming.",
+        "es": "No!! Era broma! Como has podido... Como puedes ver, Queenie és igual que el topo, no és un zombie y no deves golpearla. Ahora preparate, que vienen los zombies.",
+        "ca": "No!! Era broma! Com has pogut... Com pots veure, la Queenie és igual que el talp, no és un zombie i no l'has de picar. Ara perpara't, que venen els zombies.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "histeria_tip_step_1": {
+        "en": "Hi! How are you? Say hello to Mss. Queenie, the litle histeria girl. Try to hit her.",
+        "es": "Holaquétal, te presento a Queenie, la pequeña niña histerica. Trata de golpearla.",
+        "ca": "Holaquètal, et presento la Queenie, la petita nena histèrica. Prova de picar-la.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "wave": {
+        "en": "WAVE",
+        "es": "OLEADA",
+        "ca": "FINAL",
+        "it": "ONDATA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "choose_level_lower": {
+        "en": "A LEVEL",
+        "es": "UN NIVEL",
+        "ca": "UN NIVELL",
+        "it": "UN LIVELLO",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rate_app": {
+        "en": "Rate our app!",
+        "es": "¡Valora nuestra app!",
+        "ca": "Valora la nostra app!",
+        "it": "Valuta questa app!",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_12": {
+        "en": "The boxes are usefull, but be aware with the pigs and the boxes...!",
+        "es": "Las cajas son útiles, ¡pero ve con cuidado con los cerdos y las cajas...!",
+        "ca": "Les caixes són útils, però ves amb compte amb els porcs i les caixes...!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_11": {
+        "en": "When you drag a pig inside a box, being a death or life box, or if the pig explodes besides these, the box will explode",
+        "es": "Cuando arrastras un cerdo en una caja, ya sea de vida o de muerte, o si el cerdo estalla al lado de ésta, explotará",
+        "ca": "Quan arrosseguis un porc a una caixa, ja sigui de vida o de mort, o si el porc explota al costat d'aquesta, explotarà també",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "chest": {
+        "en": "CHEST",
+        "es": "COFRE",
+        "ca": "COFRE",
+        "it": "CASSA",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "deathbox_tip_step_10": {
+        "en": "Now drag the pig inside the death box and see what happens...",
+        "es": "Ahora arrastra el cerdo al interior de la caja de muerte y verás qué ocurre...",
+        "ca": "Ara arrossega el porc dins la caixa de mort i observa què passa...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "gaviot_tip_step_3": {
+        "en": "Now select the whistle and see what happens.",
+        "es": "Ahora selecciona el silbato y mira que ocurre.",
+        "ca": "Ara selecciona el xiulet a veure què passa!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "gaviot_tip_step_2": {
+        "en": "Get the whistle. This way you can call the pigeons.",
+        "es": "Coge el silbato que te regalo. De esta forma podrás llamar a las palomas.",
+        "ca": "Agafa el xiulet que et regalo! D'aquesta manera podràs cridar els coloms.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "gaviot_tip_step_4": {
+        "en": "As you have seen this weapon can be very useful, but remember that is limited by the amount of zombies you can kill. Take a whistle to call pigeons.",
+        "es": "Como has visto esta arma te puede ser muy útil, pero acuerdate que esta limitada por la cantidad de zombies que puede matar. Te regalo un silbato para que llames las palomas.",
+        "ca": "Com has pogut veure aquesta arma et pot ser molt útil, però recorda que està limitada per la quantitat de zombies que pot matar. Mira, et regalo un xiulet perquè els puguis cridar!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "share": {
+        "en": "SHARE",
+        "es": "COMPARTE",
+        "ca": "COMPARTEIX",
+        "it": "CONDIVIDI",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "gaviot_tip_step_1": {
+        "en": "Good! I introduce you a fun and effective weapon. The Inferno pigeons. They can kill up to 7 zombies and subtracts all points of life they have, unless they are resistant to these.",
+        "es": "Buenas! Te presento una arma muy divertida y eficaz. La paloma del Averno. Puede matar hasta 7 zombies y les resta todos los puntos de vida que tienen, a no ser que sean resistentes a estas.",
+        "ca": "Bones! Avui et presento una arma molt divertida i eficaç! El Colom de l'avern! pot matar fins a 7 zombies i els resta totes les vides que tenen, a no ser que sigui resistent a aquestes.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "reset_progress": {
+        "en": "Reset Progress",
+        "es": "Borrar partida",
+        "ca": "Borrar partida",
+        "it": "Riavvia",
+        "ru": "Vodka Vladimir",
+        "ch": "reset_progress[ch]"
+    },
+    "possum_tip_step_2": {
+        "en": "This zombie has an interesting feature. It can devour fences, bins and whatever finds on the board, leaving more room for other zombies to spawn.",
+        "es": "Este zombie tiene una característica espedial bastante interesante. Puede comerse vallas, papeleras y todo lo que se encuentre en el tablero, dejando más espacio para otros zombies.",
+        "ca": "Aquest animaló té una característica especial d'allò més interessant. Es pot menjar els tancats, papereres i coses que hi hagi al taulell, deixant més espai perquè surtin més zombies.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "possum_tip_step_1": {
+        "en": "Hi! We meet again! This time I'll introduce a curious zombie. The possum.",
+        "es": "¡Buenas! ¿Otra vez por aquí? Esta vez te presento un animal curioso. La zarigüeya.",
+        "ca": "Bones! Ja hi tornem a ser! Aquest cop deixa'm presentar-te un animal ben curiós. L'opòssum.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "possum_tip_step_5": {
+        "en": "Well done! From now on you have to prevent them from unlocking the blocked cells.",
+        "es": "Muy bien! De ahora en adelante tienes que impedir que deboqueen las celdas que están bloqueadas.",
+        "ca": "Ben fet! D'ara en endavant has de mirar d'impedir que desbloquegin les caselles que estan ocupades!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "moose_thunder_tip_step_1": {
+        "en": "Fantastic! You're a master of Animal Zombies! It's time to meet one of the zombies that is most resilient and difficult to kill. The moose. This animal has 5 points of life and is virtually resistant to all weapons.",
+        "es": "¡Fantástico! ¡Eres todo un maestro de Animal Zombies! Es hora de conocer a uno de los zombies más resistentes y difíciles de matar. El ciervo. Este animal tiene 5 puntos de vida y es resistente prácticamente a todas las armas.",
+        "ca": "Fantàstic! Ja ets tot un mestre de l'Animal Zombies! Ara et queda conèixer un dels zombies més resistents i díficils de matar. El cèrvol. Aquest animal té 5 punts de vida i és resistent a pràcticament totes les armes.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "possum_tip_step_4": {
+        "en": "The possum isn't weaponproof and you can kill it with the shovel. Try it out!",
+        "es": "Las zarigüeyas no tienen resistencia a ninguna arma y los puede matar con la pala. ¡Pruebalo!",
+        "ca": "Els opòssums no tenen resistècia a cap arma, per tant els pots matar amb la pala! Prova-ho!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "moose_thunder_tip_step_2": {
+        "en": "Try to kill the moose using the shovel!",
+        "es": "¡Intenta matar al ciervo con la pala!",
+        "ca": "Intenta matar el cèrvol amb la pala!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "possum_tip_step_3": {
+        "en": "Look as they eat up!",
+        "es": "¡Mira como comen!",
+        "ca": "Mira com mengen!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "moose_thunder_tip_step_3": {
+        "en": "As you could see, the shovel did nothing. Get the thunder!",
+        "es": "Como has comprovado, la pala no lo afecta. Coge el rayo que te regalo.",
+        "ca": "Com has pogut comprovar, la pala no li fa res. Agafa el llamp que et regalo!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "moose_thunder_tip_step_5": {
+        "en": "Try to kill the moose with the thunder!",
+        "es": "¡Prueba de matar al ciervo con el rayo!",
+        "ca": "Prova de matar el cèrvol amb el llamp!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "moose_thunder_tip_step_4": {
+        "en": "The thunder is one of the only two weapons that can kill the moose. This lasts a few seconds and is activated by cointinued touch on the screen. Once activated you can move around the screen and kill other zombies.",
+        "es": "El rayo es una de las dos unicas armas que puede matar al ciervo. Este dura unos segundos y se activa por touch continuado en la pantalla. Una vez activado lo puedes mover por la pantalla y matar otros zombies.",
+        "ca": "El llamp és una de les dues úniques armes que pot matar al cèrvol. Aquest dura uns segons i s'activa per touch continuat a la pantalla. Un cop activat pots moure't per la pantalla i matar altres zombies.",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "moose_thunder_tip_step_6": {
+        "en": "Congrats! You killed your first moose! I give you some thunders.",
+        "es": "¡Felicidades! ¡Has matado tu primer ciervo! Te regalo un par de rayos.",
+        "ca": "Felicitats! Has matat el teu primer cèrvol! Et regalo un parell de llamps perquè puguis matar-los!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "briefcase": {
+        "en": "BRIEFCASE",
+        "es": "MALETÍN",
+        "ca": "MALETÍ",
+        "it": "VENTIQUATTRONE",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rabbit_attack_tip_step_2": {
+        "en": "If you slack off they can bite or scratch you...",
+        "es": "Si te despistas un poco te pueden morder o arañar...",
+        "ca": "Si et despistes una mica et poden mossegar o esgarrepar...",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "connection_failed": {
+        "en": "You need internet connection to share on Facebook",
+        "es": "Necesitas conexión a internet para compartir en Facebook",
+        "ca": "Necessites conexió a internet per a compartir en Facebook",
+        "it": "È necessaria la connessione a internet per poter condividere su Facebook",
+        "ru": "connection_failed[ru]",
+        "ch": "connection_failed[ch]"
+    },
+    "rabbit_attack_tip_step_1": {
+        "en": "The animal zombies are very aggressive!",
+        "es": "¡Los animales zombies son muy agresivos!",
+        "ca": "Els animals zombies són molt agressius!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "pp_stage_complete": {
+        "en": "Stage Complete!",
+        "es": "Stage Completado!",
+        "ca": "Stage Completat!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rabbit_attack_tip_step_4": {
+        "en": "Well done! Prepare yourself, more are comming!",
+        "es": "¡Bien hecho! ¡Prepárate, ahora vienen más!",
+        "ca": "Ben fet! Prepara't, que en venen més!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "rabbit_attack_tip_step_3": {
+        "en": "Hit the rabbit with your shovel to kill it!",
+        "es": "¡Golpea al conejo con tu pala para eliminarle!",
+        "ca": "Pica al conill amb la teva pala per eliminar-lo!",
+        "it": "[it]",
+        "ru": "[ru]",
+        "ch": "[ch]"
+    },
+    "_acl": {
+        "owner": "ce88af25-8036-4c2a-a179-fca6a266b47d",
+        "mode": 0
+    }
+}
